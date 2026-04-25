@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-04-25T17:48:20.996538",
+  "primaryDataTable": [
+    {
+      "siteId": "a",
+      "areaName": "a",
+      "computedAreaM2": 2698.91015625,
+      "shadingCondition": "High",
+      "orientation": "South"
+    },
+    {
+      "siteId": "b",
+      "areaName": "b",
+      "computedAreaM2": 1981.5341796875,
+      "shadingCondition": "High",
+      "orientation": "South"
+    }
+  ],
+  "suitabilityAssessmentTable": [
+    {
+      "siteId": "a",
+      "areaScore": 5.0,
+      "shadingScore": 2.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "b",
+      "areaScore": 5.0,
+      "shadingScore": 2.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.0,
+      "suitable": "YES"
+    }
+  ],
+  "parkingSpaces": [
+    {
+      "id": "1777084743676",
+      "parkingSpaceId": "a",
+      "areaName": "a",
+      "description": "a",
+      "points": [
+        {
+          "lat": 9.6486500938612,
+          "lng": 123.85546604651104
+        },
+        {
+          "lat": 9.64864502824303,
+          "lng": 123.85603125997281
+        },
+        {
+          "lat": 9.648320828520903,
+          "lng": 123.85602783443667
+        },
+        {
+          "lat": 9.648329271225967,
+          "lng": 123.85561677010085
+        },
+        {
+          "lat": 9.64811482645213,
+          "lng": 123.855609620066
+        },
+        {
+          "lat": 9.64811482645213,
+          "lng": 123.85543521668585
+        }
+      ],
+      "computedAreaM2": 2698.91015625,
+      "shadingCondition": "High",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 2.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.0,
+      "suitable": true
+    },
+    {
+      "id": "1777110368917",
+      "parkingSpaceId": "b",
+      "areaName": "b",
+      "description": "b",
+      "points": [
+        {
+          "lat": 9.648097975580498,
+          "lng": 123.85456999846859
+        },
+        {
+          "lat": 9.64807252932036,
+          "lng": 123.8550127622709
+        },
+        {
+          "lat": 9.647722153697046,
+          "lng": 123.8550147477588
+        },
+        {
+          "lat": 9.647722153697174,
+          "lng": 123.85472288103709
+        },
+        {
+          "lat": 9.647723866427944,
+          "lng": 123.85456354563296
+        }
+      ],
+      "computedAreaM2": 1981.5341796875,
+      "shadingCondition": "High",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 2.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.0,
+      "suitable": true
+    }
+  ]
+}
