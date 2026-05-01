@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-25T17:48:20.996538",
+  "generatedAt": "2026-05-01T11:20:06.845208",
   "primaryDataTable": [
     {
       "siteId": "a",
@@ -15,6 +15,20 @@
       "computedAreaM2": 1981.5341796875,
       "shadingCondition": "High",
       "orientation": "South"
+    },
+    {
+      "siteId": "manga",
+      "areaName": "123",
+      "computedAreaM2": 46757.5283203125,
+      "shadingCondition": "Very High",
+      "orientation": "North-East"
+    },
+    {
+      "siteId": "sada",
+      "areaName": "adsasfc",
+      "computedAreaM2": 282.615234375,
+      "shadingCondition": "Very High",
+      "orientation": "North-East"
     }
   ],
   "suitabilityAssessmentTable": [
@@ -33,6 +47,22 @@
       "orientationScore": 5.0,
       "suitabilityRating": 4.0,
       "suitable": "YES"
+    },
+    {
+      "siteId": "manga",
+      "areaScore": 5.0,
+      "shadingScore": 1.0,
+      "orientationScore": 2.0,
+      "suitabilityRating": 2.6666666666666665,
+      "suitable": "NO"
+    },
+    {
+      "siteId": "sada",
+      "areaScore": 5.0,
+      "shadingScore": 1.0,
+      "orientationScore": 2.0,
+      "suitabilityRating": 2.6666666666666665,
+      "suitable": "NO"
     }
   ],
   "parkingSpaces": [
@@ -111,6 +141,78 @@
       "orientationScore": 5.0,
       "suitabilityRating": 4.0,
       "suitable": true
+    },
+    {
+      "id": "1777604682551",
+      "parkingSpaceId": "manga",
+      "areaName": "123",
+      "description": "wowoowo\n\n\n\n\n\n\n\n\n\n\n\nyghvjb",
+      "points": [
+        {
+          "lat": 9.651169628629484,
+          "lng": 123.85324306030272
+        },
+        {
+          "lat": 9.649138840872883,
+          "lng": 123.85325164337155
+        },
+        {
+          "lat": 9.648766528456607,
+          "lng": 123.85498542327879
+        },
+        {
+          "lat": 9.651093474309498,
+          "lng": 123.85501975555417
+        }
+      ],
+      "computedAreaM2": 46757.5283203125,
+      "shadingCondition": "Very High",
+      "orientation": "North-East",
+      "areaScore": 5.0,
+      "shadingScore": 1.0,
+      "orientationScore": 2.0,
+      "suitabilityRating": 2.6666666666666665,
+      "suitable": false
+    },
+    {
+      "id": "1777605186897",
+      "parkingSpaceId": "sada",
+      "areaName": "adsasfc",
+      "description": "asdfdz",
+      "points": [
+        {
+          "lat": 9.647277348184883,
+          "lng": 123.85567779292428
+        },
+        {
+          "lat": 9.647294946965397,
+          "lng": 123.85567975921143
+        },
+        {
+          "lat": 9.647296455288368,
+          "lng": 123.85570691599453
+        },
+        {
+          "lat": 9.647495918529705,
+          "lng": 123.85570817729028
+        },
+        {
+          "lat": 9.647506110663592,
+          "lng": 123.85558809344164
+        },
+        {
+          "lat": 9.647351660601267,
+          "lng": 123.85558570766987
+        }
+      ],
+      "computedAreaM2": 282.615234375,
+      "shadingCondition": "Very High",
+      "orientation": "North-East",
+      "areaScore": 5.0,
+      "shadingScore": 1.0,
+      "orientationScore": 2.0,
+      "suitabilityRating": 2.6666666666666665,
+      "suitable": false
     }
   ]
 }
