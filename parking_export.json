@@ -1,14 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-05-01T11:20:06.845208",
+  "generatedAt": "2026-08-25T20:37:04.315313",
   "primaryDataTable": [
-    {
-      "siteId": "a",
-      "areaName": "a",
-      "computedAreaM2": 2698.91015625,
-      "shadingCondition": "High",
-      "orientation": "South"
-    },
     {
       "siteId": "b",
       "areaName": "b",
@@ -17,29 +10,56 @@
       "orientation": "South"
     },
     {
-      "siteId": "manga",
-      "areaName": "123",
-      "computedAreaM2": 46757.5283203125,
-      "shadingCondition": "Very High",
-      "orientation": "North-East"
-    },
-    {
       "siteId": "sada",
       "areaName": "adsasfc",
       "computedAreaM2": 282.615234375,
       "shadingCondition": "Very High",
       "orientation": "North-East"
+    },
+    {
+      "siteId": "1",
+      "areaName": "1232",
+      "computedAreaM2": 1123.7431640625,
+      "shadingCondition": "Very High",
+      "orientation": "South"
+    },
+    {
+      "siteId": "1",
+      "areaName": "12",
+      "computedAreaM2": 473.6357421875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "12",
+      "areaName": "123",
+      "computedAreaM2": 485.771484375,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "123",
+      "areaName": "123",
+      "computedAreaM2": 401.5361328125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "123",
+      "areaName": "123",
+      "computedAreaM2": 294.330078125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "12",
+      "areaName": "1231",
+      "computedAreaM2": 507.8720703125,
+      "shadingCondition": "None",
+      "orientation": "South"
     }
   ],
   "suitabilityAssessmentTable": [
-    {
-      "siteId": "a",
-      "areaScore": 5.0,
-      "shadingScore": 2.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 4.0,
-      "suitable": "YES"
-    },
     {
       "siteId": "b",
       "areaScore": 5.0,
@@ -49,63 +69,63 @@
       "suitable": "YES"
     },
     {
-      "siteId": "manga",
-      "areaScore": 5.0,
-      "shadingScore": 1.0,
-      "orientationScore": 2.0,
-      "suitabilityRating": 2.6666666666666665,
-      "suitable": "NO"
-    },
-    {
       "siteId": "sada",
       "areaScore": 5.0,
       "shadingScore": 1.0,
       "orientationScore": 2.0,
       "suitabilityRating": 2.6666666666666665,
       "suitable": "NO"
+    },
+    {
+      "siteId": "1",
+      "areaScore": 5.0,
+      "shadingScore": 1.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 3.6666666666666665,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "1",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "12",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "123",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "123",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "12",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
     }
   ],
   "parkingSpaces": [
-    {
-      "id": "1777084743676",
-      "parkingSpaceId": "a",
-      "areaName": "a",
-      "description": "a",
-      "points": [
-        {
-          "lat": 9.6486500938612,
-          "lng": 123.85546604651104
-        },
-        {
-          "lat": 9.64864502824303,
-          "lng": 123.85603125997281
-        },
-        {
-          "lat": 9.648320828520903,
-          "lng": 123.85602783443667
-        },
-        {
-          "lat": 9.648329271225967,
-          "lng": 123.85561677010085
-        },
-        {
-          "lat": 9.64811482645213,
-          "lng": 123.855609620066
-        },
-        {
-          "lat": 9.64811482645213,
-          "lng": 123.85543521668585
-        }
-      ],
-      "computedAreaM2": 2698.91015625,
-      "shadingCondition": "High",
-      "orientation": "South",
-      "areaScore": 5.0,
-      "shadingScore": 2.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 4.0,
-      "suitable": true
-    },
     {
       "id": "1777110368917",
       "parkingSpaceId": "b",
@@ -141,38 +161,6 @@
       "orientationScore": 5.0,
       "suitabilityRating": 4.0,
       "suitable": true
-    },
-    {
-      "id": "1777604682551",
-      "parkingSpaceId": "manga",
-      "areaName": "123",
-      "description": "wowoowo\n\n\n\n\n\n\n\n\n\n\n\nyghvjb",
-      "points": [
-        {
-          "lat": 9.651169628629484,
-          "lng": 123.85324306030272
-        },
-        {
-          "lat": 9.649138840872883,
-          "lng": 123.85325164337155
-        },
-        {
-          "lat": 9.648766528456607,
-          "lng": 123.85498542327879
-        },
-        {
-          "lat": 9.651093474309498,
-          "lng": 123.85501975555417
-        }
-      ],
-      "computedAreaM2": 46757.5283203125,
-      "shadingCondition": "Very High",
-      "orientation": "North-East",
-      "areaScore": 5.0,
-      "shadingScore": 1.0,
-      "orientationScore": 2.0,
-      "suitabilityRating": 2.6666666666666665,
-      "suitable": false
     },
     {
       "id": "1777605186897",
@@ -213,6 +201,350 @@
       "orientationScore": 2.0,
       "suitabilityRating": 2.6666666666666665,
       "suitable": false
+    },
+    {
+      "id": "1787651884317",
+      "parkingSpaceId": "1",
+      "areaName": "1232",
+      "description": "123",
+      "points": [
+        {
+          "lat": 9.655994914642118,
+          "lng": 123.87110674756454
+        },
+        {
+          "lat": 9.656001434805576,
+          "lng": 123.87196820346449
+        },
+        {
+          "lat": 9.655893852092715,
+          "lng": 123.87196985693075
+        },
+        {
+          "lat": 9.655888961968595,
+          "lng": 123.87110840103077
+        }
+      ],
+      "computedAreaM2": 1123.7431640625,
+      "shadingCondition": "Very High",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 1.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 3.6666666666666665,
+      "suitable": true
+    },
+    {
+      "id": "1787654630573",
+      "parkingSpaceId": "1",
+      "areaName": "12",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.655081595260883,
+          "lng": 123.87095672787777
+        },
+        {
+          "lat": 9.655081595260642,
+          "lng": 123.8706111891748
+        },
+        {
+          "lat": 9.655034587070134,
+          "lng": 123.87059211572942
+        },
+        {
+          "lat": 9.654980527642655,
+          "lng": 123.87057781064534
+        },
+        {
+          "lat": 9.654947621899943,
+          "lng": 123.87058257900668
+        },
+        {
+          "lat": 9.654945271489217,
+          "lng": 123.87079477108712
+        }
+      ],
+      "computedAreaM2": 473.6357421875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1787654893890",
+      "parkingSpaceId": "12",
+      "areaName": "123",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.66280222946096,
+          "lng": 123.86769366595144
+        },
+        {
+          "lat": 9.662821032304201,
+          "lng": 123.86759591454357
+        },
+        {
+          "lat": 9.662776375549802,
+          "lng": 123.86757207273678
+        },
+        {
+          "lat": 9.662782889486039,
+          "lng": 123.86754594216427
+        },
+        {
+          "lat": 9.662655885556433,
+          "lng": 123.86747914055309
+        },
+        {
+          "lat": 9.66265431760637,
+          "lng": 123.86750250322709
+        },
+        {
+          "lat": 9.662547326911294,
+          "lng": 123.86745834551624
+        },
+        {
+          "lat": 9.662514544248783,
+          "lng": 123.8675890698208
+        }
+      ],
+      "computedAreaM2": 485.771484375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1787656038606",
+      "parkingSpaceId": "123",
+      "areaName": "123",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.666416895269183,
+          "lng": 123.86555863346167
+        },
+        {
+          "lat": 9.666377615004036,
+          "lng": 123.8655821757629
+        },
+        {
+          "lat": 9.666363742710985,
+          "lng": 123.86558990033767
+        },
+        {
+          "lat": 9.666352807988366,
+          "lng": 123.86558837037803
+        },
+        {
+          "lat": 9.666338670152445,
+          "lng": 123.86555596011728
+        },
+        {
+          "lat": 9.6663272297399,
+          "lng": 123.86555111055338
+        },
+        {
+          "lat": 9.666310483067504,
+          "lng": 123.8655637954023
+        },
+        {
+          "lat": 9.666272567442354,
+          "lng": 123.8655677622306
+        },
+        {
+          "lat": 9.66624144185032,
+          "lng": 123.86555171497392
+        },
+        {
+          "lat": 9.666210538857662,
+          "lng": 123.86558217429499
+        },
+        {
+          "lat": 9.666247201653686,
+          "lng": 123.86559995425002
+        },
+        {
+          "lat": 9.666305080021083,
+          "lng": 123.86564277125001
+        },
+        {
+          "lat": 9.666311173502988,
+          "lng": 123.86565526549361
+        },
+        {
+          "lat": 9.66632053819714,
+          "lng": 123.86564462485742
+        },
+        {
+          "lat": 9.666337494518993,
+          "lng": 123.86565736599046
+        },
+        {
+          "lat": 9.666333609468651,
+          "lng": 123.8656797523223
+        },
+        {
+          "lat": 9.666365411880063,
+          "lng": 123.86569725922755
+        },
+        {
+          "lat": 9.666385947633815,
+          "lng": 123.86571742750758
+        },
+        {
+          "lat": 9.666402485161042,
+          "lng": 123.86574151467049
+        },
+        {
+          "lat": 9.66641352049812,
+          "lng": 123.86576563315444
+        },
+        {
+          "lat": 9.666423113973853,
+          "lng": 123.86579808439161
+        },
+        {
+          "lat": 9.666439789216197,
+          "lng": 123.86582678180493
+        },
+        {
+          "lat": 9.666449328776128,
+          "lng": 123.86584960935446
+        },
+        {
+          "lat": 9.666470087143008,
+          "lng": 123.86586157140279
+        },
+        {
+          "lat": 9.666498807093618,
+          "lng": 123.86586049495733
+        },
+        {
+          "lat": 9.666515978720433,
+          "lng": 123.8657520032753
+        },
+        {
+          "lat": 9.66647868750164,
+          "lng": 123.86576849812636
+        },
+        {
+          "lat": 9.666461666670124,
+          "lng": 123.86574000353176
+        },
+        {
+          "lat": 9.666449580260778,
+          "lng": 123.86571178661995
+        },
+        {
+          "lat": 9.666451326169186,
+          "lng": 123.8656755755264
+        },
+        {
+          "lat": 9.666481298973528,
+          "lng": 123.86567857921085
+        }
+      ],
+      "computedAreaM2": 401.5361328125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1787656489861",
+      "parkingSpaceId": "123",
+      "areaName": "123",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.675209743776195,
+          "lng": 123.85991408498157
+        },
+        {
+          "lat": 9.675205756866397,
+          "lng": 123.85994436460949
+        },
+        {
+          "lat": 9.675220649738748,
+          "lng": 123.85994992715649
+        },
+        {
+          "lat": 9.675217044007757,
+          "lng": 123.86004855607506
+        },
+        {
+          "lat": 9.675408673916326,
+          "lng": 123.86007996471594
+        },
+        {
+          "lat": 9.675408207326779,
+          "lng": 123.86002114595497
+        },
+        {
+          "lat": 9.67541224644034,
+          "lng": 123.86000084063855
+        },
+        {
+          "lat": 9.675425722743922,
+          "lng": 123.85997059058475
+        }
+      ],
+      "computedAreaM2": 294.330078125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1787656926217",
+      "parkingSpaceId": "12",
+      "areaName": "1231",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.672471218396742,
+          "lng": 123.85970714579094
+        },
+        {
+          "lat": 9.672203992241478,
+          "lng": 123.8596656517888
+        },
+        {
+          "lat": 9.6722010565655,
+          "lng": 123.85972354079658
+        },
+        {
+          "lat": 9.672198397181777,
+          "lng": 123.85979994685694
+        },
+        {
+          "lat": 9.672508869177852,
+          "lng": 123.85986646307764
+        }
+      ],
+      "computedAreaM2": 507.8720703125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
     }
   ]
 }
