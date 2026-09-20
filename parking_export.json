@@ -1,20 +1,13 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-08-25T20:37:04.315313",
+  "generatedAt": "2026-09-20T17:28:06.966115",
   "primaryDataTable": [
-    {
-      "siteId": "b",
-      "areaName": "b",
-      "computedAreaM2": 1981.5341796875,
-      "shadingCondition": "High",
-      "orientation": "South"
-    },
     {
       "siteId": "sada",
       "areaName": "adsasfc",
       "computedAreaM2": 282.615234375,
       "shadingCondition": "Very High",
-      "orientation": "North-East"
+      "orientation": "North"
     },
     {
       "siteId": "1",
@@ -57,23 +50,71 @@
       "computedAreaM2": 507.8720703125,
       "shadingCondition": "None",
       "orientation": "South"
+    },
+    {
+      "siteId": "01",
+      "areaName": "ACE Area",
+      "computedAreaM2": 770.1826171875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "02",
+      "areaName": "Panglao Bus Terminal_Cogon",
+      "computedAreaM2": 1417.2001953125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "04",
+      "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
+      "computedAreaM2": 143.0537109375,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "05",
+      "areaName": "Galleria Luisa",
+      "computedAreaM2": 4479.2529296875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "06",
+      "areaName": "Galleria Luisa Front",
+      "computedAreaM2": 674.8701171875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "07",
+      "areaName": "Ramiro Hospital",
+      "computedAreaM2": 1636.70703125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "08",
+      "areaName": "K of C",
+      "computedAreaM2": 688.9658203125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "09",
+      "areaName": "UB",
+      "computedAreaM2": 1372.31640625,
+      "shadingCondition": "None",
+      "orientation": "South"
     }
   ],
   "suitabilityAssessmentTable": [
     {
-      "siteId": "b",
-      "areaScore": 5.0,
-      "shadingScore": 2.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 4.0,
-      "suitable": "YES"
-    },
-    {
       "siteId": "sada",
       "areaScore": 5.0,
       "shadingScore": 1.0,
-      "orientationScore": 2.0,
-      "suitabilityRating": 2.6666666666666665,
+      "orientationScore": 1.0,
+      "suitabilityRating": 2.3333333333333335,
       "suitable": "NO"
     },
     {
@@ -123,45 +164,73 @@
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
       "suitable": "YES"
+    },
+    {
+      "siteId": "01",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "02",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "04",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "05",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "06",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "07",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "08",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "09",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
     }
   ],
   "parkingSpaces": [
-    {
-      "id": "1777110368917",
-      "parkingSpaceId": "b",
-      "areaName": "b",
-      "description": "b",
-      "points": [
-        {
-          "lat": 9.648097975580498,
-          "lng": 123.85456999846859
-        },
-        {
-          "lat": 9.64807252932036,
-          "lng": 123.8550127622709
-        },
-        {
-          "lat": 9.647722153697046,
-          "lng": 123.8550147477588
-        },
-        {
-          "lat": 9.647722153697174,
-          "lng": 123.85472288103709
-        },
-        {
-          "lat": 9.647723866427944,
-          "lng": 123.85456354563296
-        }
-      ],
-      "computedAreaM2": 1981.5341796875,
-      "shadingCondition": "High",
-      "orientation": "South",
-      "areaScore": 5.0,
-      "shadingScore": 2.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 4.0,
-      "suitable": true
-    },
     {
       "id": "1777605186897",
       "parkingSpaceId": "sada",
@@ -195,11 +264,11 @@
       ],
       "computedAreaM2": 282.615234375,
       "shadingCondition": "Very High",
-      "orientation": "North-East",
+      "orientation": "North",
       "areaScore": 5.0,
       "shadingScore": 1.0,
-      "orientationScore": 2.0,
-      "suitabilityRating": 2.6666666666666665,
+      "orientationScore": 1.0,
+      "suitabilityRating": 2.3333333333333335,
       "suitable": false
     },
     {
@@ -538,6 +607,506 @@
         }
       ],
       "computedAreaM2": 507.8720703125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789887003234",
+      "parkingSpaceId": "01",
+      "areaName": "ACE Area",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.63464731385004,
+          "lng": 123.86961018037695
+        },
+        {
+          "lat": 9.634159470968518,
+          "lng": 123.86941541537557
+        },
+        {
+          "lat": 9.63411438007167,
+          "lng": 123.86951001311873
+        },
+        {
+          "lat": 9.634193516187764,
+          "lng": 123.86954805462217
+        },
+        {
+          "lat": 9.634258579471151,
+          "lng": 123.86960086483519
+        },
+        {
+          "lat": 9.634616241414333,
+          "lng": 123.86970945053777
+        }
+      ],
+      "computedAreaM2": 770.1826171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789888781304",
+      "parkingSpaceId": "02",
+      "areaName": "Panglao Bus Terminal_Cogon",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.638822805166171,
+          "lng": 123.86000096184608
+        },
+        {
+          "lat": 9.638929300538232,
+          "lng": 123.86004572065664
+        },
+        {
+          "lat": 9.639023128847796,
+          "lng": 123.86002836207722
+        },
+        {
+          "lat": 9.639131489684416,
+          "lng": 123.86008009456457
+        },
+        {
+          "lat": 9.639121660271112,
+          "lng": 123.8601428974329
+        },
+        {
+          "lat": 9.639289921896925,
+          "lng": 123.86018145420816
+        },
+        {
+          "lat": 9.639287704744206,
+          "lng": 123.86006323899984
+        },
+        {
+          "lat": 9.639327616591917,
+          "lng": 123.85999318696939
+        },
+        {
+          "lat": 9.639332811133988,
+          "lng": 123.85991929553754
+        },
+        {
+          "lat": 9.639244188050831,
+          "lng": 123.85987311101573
+        },
+        {
+          "lat": 9.639165240761441,
+          "lng": 123.8599064901159
+        },
+        {
+          "lat": 9.639083495203865,
+          "lng": 123.85987117604853
+        },
+        {
+          "lat": 9.63903844825949,
+          "lng": 123.859783664037
+        },
+        {
+          "lat": 9.63889881716562,
+          "lng": 123.85974479889684
+        }
+      ],
+      "computedAreaM2": 1417.2001953125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789889560567",
+      "parkingSpaceId": "04",
+      "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.640485450554651,
+          "lng": 123.87685406656367
+        },
+        {
+          "lat": 9.640457597634807,
+          "lng": 123.87683550406383
+        },
+        {
+          "lat": 9.640255071637704,
+          "lng": 123.87694690572343
+        },
+        {
+          "lat": 9.640282960562088,
+          "lng": 123.87700753190173
+        }
+      ],
+      "computedAreaM2": 143.0537109375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789890605650",
+      "parkingSpaceId": "05",
+      "areaName": "Galleria Luisa",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.642156638857383,
+          "lng": 123.85357213304377
+        },
+        {
+          "lat": 9.642180143851736,
+          "lng": 123.8536916982532
+        },
+        {
+          "lat": 9.642506545992232,
+          "lng": 123.85359465919635
+        },
+        {
+          "lat": 9.642506860042745,
+          "lng": 123.8535411920669
+        },
+        {
+          "lat": 9.642731849898722,
+          "lng": 123.85348622900216
+        },
+        {
+          "lat": 9.642673650795142,
+          "lng": 123.853197704711
+        },
+        {
+          "lat": 9.642597122593273,
+          "lng": 123.8531722174555
+        },
+        {
+          "lat": 9.642544717850702,
+          "lng": 123.85304953219335
+        },
+        {
+          "lat": 9.642180969656183,
+          "lng": 123.8531504724777
+        },
+        {
+          "lat": 9.642154333761777,
+          "lng": 123.85312734508523
+        },
+        {
+          "lat": 9.642011728203514,
+          "lng": 123.85318683026239
+        },
+        {
+          "lat": 9.642004045815709,
+          "lng": 123.85325356704115
+        },
+        {
+          "lat": 9.64190933561969,
+          "lng": 123.85329954121252
+        },
+        {
+          "lat": 9.641988918612777,
+          "lng": 123.8535110995973
+        },
+        {
+          "lat": 9.641974212231982,
+          "lng": 123.85362645329693
+        },
+        {
+          "lat": 9.641870292302709,
+          "lng": 123.85366427343462
+        },
+        {
+          "lat": 9.64190781143332,
+          "lng": 123.8537814324747
+        },
+        {
+          "lat": 9.642081194529997,
+          "lng": 123.85373584658944
+        },
+        {
+          "lat": 9.642042300472529,
+          "lng": 123.85359490172289
+        }
+      ],
+      "computedAreaM2": 4479.2529296875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789894732968",
+      "parkingSpaceId": "06",
+      "areaName": "Galleria Luisa Front",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.642590802031732,
+          "lng": 123.85419594892221
+        },
+        {
+          "lat": 9.642536613026497,
+          "lng": 123.85399786199444
+        },
+        {
+          "lat": 9.642284414412375,
+          "lng": 123.85408796981575
+        },
+        {
+          "lat": 9.642328821994148,
+          "lng": 123.85428521924787
+        }
+      ],
+      "computedAreaM2": 674.8701171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789895702718",
+      "parkingSpaceId": "07",
+      "areaName": "Ramiro Hospital",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.644145158467374,
+          "lng": 123.85284463572984
+        },
+        {
+          "lat": 9.644035031676133,
+          "lng": 123.85264198391098
+        },
+        {
+          "lat": 9.644178362533749,
+          "lng": 123.85257339605101
+        },
+        {
+          "lat": 9.644057119887774,
+          "lng": 123.85231221586457
+        },
+        {
+          "lat": 9.644120931357559,
+          "lng": 123.85219414043976
+        },
+        {
+          "lat": 9.644207315702678,
+          "lng": 123.8521336503348
+        },
+        {
+          "lat": 9.64432986991139,
+          "lng": 123.85239105746527
+        },
+        {
+          "lat": 9.644303991692802,
+          "lng": 123.85241887671212
+        },
+        {
+          "lat": 9.644444616241035,
+          "lng": 123.85269438859558
+        },
+        {
+          "lat": 9.644383567580775,
+          "lng": 123.8527357122774
+        },
+        {
+          "lat": 9.64433569774715,
+          "lng": 123.85267876082686
+        },
+        {
+          "lat": 9.644271798567107,
+          "lng": 123.85268849801425
+        },
+        {
+          "lat": 9.644233148022959,
+          "lng": 123.85260477925235
+        },
+        {
+          "lat": 9.64417176121157,
+          "lng": 123.8526393403799
+        },
+        {
+          "lat": 9.644229457674658,
+          "lng": 123.85274242309058
+        },
+        {
+          "lat": 9.64428842079817,
+          "lng": 123.85272585646305
+        },
+        {
+          "lat": 9.64430092738526,
+          "lng": 123.85274437491753
+        }
+      ],
+      "computedAreaM2": 1636.70703125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789895923626",
+      "parkingSpaceId": "08",
+      "areaName": "K of C",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.645820152594368,
+          "lng": 123.85198353696802
+        },
+        {
+          "lat": 9.645896100206855,
+          "lng": 123.85214459711574
+        },
+        {
+          "lat": 9.64565447316392,
+          "lng": 123.85227550749494
+        },
+        {
+          "lat": 9.645552687373975,
+          "lng": 123.85206901675309
+        }
+      ],
+      "computedAreaM2": 688.9658203125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1789896435024",
+      "parkingSpaceId": "09",
+      "areaName": "UB",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.647994302468184,
+          "lng": 123.85516849489768
+        },
+        {
+          "lat": 9.647917136588251,
+          "lng": 123.85517049785591
+        },
+        {
+          "lat": 9.647878813641539,
+          "lng": 123.85510478766443
+        },
+        {
+          "lat": 9.647878284970947,
+          "lng": 123.8550299993001
+        },
+        {
+          "lat": 9.647901186404772,
+          "lng": 123.85499107078428
+        },
+        {
+          "lat": 9.647872649635525,
+          "lng": 123.85484463568369
+        },
+        {
+          "lat": 9.647905704833178,
+          "lng": 123.85481019419865
+        },
+        {
+          "lat": 9.64799790236361,
+          "lng": 123.8548883122457
+        },
+        {
+          "lat": 9.648027932373466,
+          "lng": 123.85484194299431
+        },
+        {
+          "lat": 9.64800775172955,
+          "lng": 123.85463897425029
+        },
+        {
+          "lat": 9.647958816704042,
+          "lng": 123.85466324127262
+        },
+        {
+          "lat": 9.647957040160568,
+          "lng": 123.85475787027413
+        },
+        {
+          "lat": 9.647914461151899,
+          "lng": 123.8547643883021
+        },
+        {
+          "lat": 9.64791096911667,
+          "lng": 123.85469081743436
+        },
+        {
+          "lat": 9.647865296413311,
+          "lng": 123.85469633266672
+        },
+        {
+          "lat": 9.64781255530767,
+          "lng": 123.85486785639291
+        },
+        {
+          "lat": 9.647771083868022,
+          "lng": 123.85490319735979
+        },
+        {
+          "lat": 9.647772510723579,
+          "lng": 123.85465273351242
+        },
+        {
+          "lat": 9.64784563599281,
+          "lng": 123.85455852546467
+        },
+        {
+          "lat": 9.648086557524811,
+          "lng": 123.85457491667236
+        },
+        {
+          "lat": 9.648102227212476,
+          "lng": 123.85483431440446
+        },
+        {
+          "lat": 9.648073231305341,
+          "lng": 123.85494851303982
+        },
+        {
+          "lat": 9.648044964455613,
+          "lng": 123.85497517885344
+        },
+        {
+          "lat": 9.648041365043229,
+          "lng": 123.85505648624104
+        },
+        {
+          "lat": 9.647997472423159,
+          "lng": 123.85506575145875
+        }
+      ],
+      "computedAreaM2": 1372.31640625,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
