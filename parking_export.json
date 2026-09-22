@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-20T17:28:06.966115",
+  "generatedAt": "2026-09-23T03:35:30.041347",
   "primaryDataTable": [
     {
       "siteId": "sada",
@@ -104,6 +104,111 @@
       "siteId": "09",
       "areaName": "UB",
       "computedAreaM2": 1372.31640625,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "10",
+      "areaName": "Vaper's Hub",
+      "computedAreaM2": 383.0966796875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "11",
+      "areaName": "Cultural",
+      "computedAreaM2": 1072.6748046875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "12",
+      "areaName": "ODF Pet Shop",
+      "computedAreaM2": 77.41015625,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "13",
+      "areaName": "Blue Ocean Food Park & KTV Bar",
+      "computedAreaM2": 670.4384765625,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "14",
+      "areaName": "Wisdom 1",
+      "computedAreaM2": 93.0576171875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "15",
+      "areaName": "Wisdom 2",
+      "computedAreaM2": 49.51953125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "16",
+      "areaName": "Wisdom 3",
+      "computedAreaM2": 123.595703125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "16",
+      "areaName": "Wisdom 4",
+      "computedAreaM2": 64.7119140625,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "18",
+      "areaName": "Wrenley's",
+      "computedAreaM2": 155.16796875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "19",
+      "areaName": "Tool Haven",
+      "computedAreaM2": 366.65625,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "20",
+      "areaName": "VDT 1",
+      "computedAreaM2": 258.5576171875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "21",
+      "areaName": "VDT 2",
+      "computedAreaM2": 199.0751953125,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "22",
+      "areaName": "VDT 3",
+      "computedAreaM2": 105.3076171875,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "23",
+      "areaName": "St. Peter Chapels - Taloto",
+      "computedAreaM2": 685.6630859375,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "24",
+      "areaName": "Imamaculate Heart of Mary Seminary",
+      "computedAreaM2": 185.93359375,
       "shadingCondition": "None",
       "orientation": "South"
     }
@@ -223,6 +328,126 @@
     },
     {
       "siteId": "09",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "10",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "11",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "12",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "13",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "14",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "15",
+      "areaScore": 4.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.666666666666667,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "16",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "16",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "18",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "19",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "20",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "21",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "22",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "23",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "24",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -1107,6 +1332,574 @@
         }
       ],
       "computedAreaM2": 1372.31640625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790100135420",
+      "parkingSpaceId": "10",
+      "areaName": "Vaper's Hub",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.64809531700143,
+          "lng": 123.85197877324713
+        },
+        {
+          "lat": 9.64802578798643,
+          "lng": 123.85189898949082
+        },
+        {
+          "lat": 9.647926601196682,
+          "lng": 123.85201121451398
+        },
+        {
+          "lat": 9.647893658193402,
+          "lng": 123.85208895754353
+        },
+        {
+          "lat": 9.647992621714712,
+          "lng": 123.85216834192144
+        },
+        {
+          "lat": 9.648126300267748,
+          "lng": 123.8520237959567
+        },
+        {
+          "lat": 9.64806661427949,
+          "lng": 123.85201639440658
+        }
+      ],
+      "computedAreaM2": 383.0966796875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790100805344",
+      "parkingSpaceId": "11",
+      "areaName": "Cultural",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.648321659636647,
+          "lng": 123.85603360111297
+        },
+        {
+          "lat": 9.648338139320154,
+          "lng": 123.85563558439823
+        },
+        {
+          "lat": 9.648258743032157,
+          "lng": 123.85554573745512
+        },
+        {
+          "lat": 9.648257743886157,
+          "lng": 123.85551281220012
+        },
+        {
+          "lat": 9.648426572717007,
+          "lng": 123.85551991549973
+        },
+        {
+          "lat": 9.648423704185312,
+          "lng": 123.85556653319296
+        },
+        {
+          "lat": 9.648470381002376,
+          "lng": 123.85556921215884
+        },
+        {
+          "lat": 9.648473776231969,
+          "lng": 123.85552068047949
+        },
+        {
+          "lat": 9.648554955741577,
+          "lng": 123.85552493690184
+        },
+        {
+          "lat": 9.648522420187586,
+          "lng": 123.8556477380539
+        },
+        {
+          "lat": 9.648516682393549,
+          "lng": 123.85585102070688
+        },
+        {
+          "lat": 9.648443370059432,
+          "lng": 123.85584977881894
+        },
+        {
+          "lat": 9.648432931841066,
+          "lng": 123.85603337835927
+        }
+      ],
+      "computedAreaM2": 1072.6748046875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790101223510",
+      "parkingSpaceId": "12",
+      "areaName": "ODF Pet Shop",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.651001750277773,
+          "lng": 123.87578868585906
+        },
+        {
+          "lat": 9.650813449540442,
+          "lng": 123.87564607815958
+        },
+        {
+          "lat": 9.650798180587053,
+          "lng": 123.87566918757075
+        },
+        {
+          "lat": 9.650987434945261,
+          "lng": 123.8758104625291
+        }
+      ],
+      "computedAreaM2": 77.41015625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790101919937",
+      "parkingSpaceId": "13",
+      "areaName": "Blue Ocean Food Park & KTV Bar",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.652978828500288,
+          "lng": 123.84964300788754
+        },
+        {
+          "lat": 9.653046614274004,
+          "lng": 123.84986924893
+        },
+        {
+          "lat": 9.653081250709032,
+          "lng": 123.8498575375118
+        },
+        {
+          "lat": 9.653095676893189,
+          "lng": 123.8499172337022
+        },
+        {
+          "lat": 9.65315330994061,
+          "lng": 123.84990738876378
+        },
+        {
+          "lat": 9.653146104142397,
+          "lng": 123.84984666103767
+        },
+        {
+          "lat": 9.65319097948249,
+          "lng": 123.849830238369
+        },
+        {
+          "lat": 9.65316772228041,
+          "lng": 123.84970066516162
+        },
+        {
+          "lat": 9.653245069766719,
+          "lng": 123.84968150179495
+        },
+        {
+          "lat": 9.653235705071666,
+          "lng": 123.84963231725787
+        },
+        {
+          "lat": 9.653271674156839,
+          "lng": 123.84961921475633
+        },
+        {
+          "lat": 9.653238796574183,
+          "lng": 123.84955466415721
+        }
+      ],
+      "computedAreaM2": 670.4384765625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790102356467",
+      "parkingSpaceId": "14",
+      "areaName": "Wisdom 1",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.660231795589786,
+          "lng": 123.85658723532163
+        },
+        {
+          "lat": 9.66021252330633,
+          "lng": 123.85662032316272
+        },
+        {
+          "lat": 9.660039137177066,
+          "lng": 123.85655543031265
+        },
+        {
+          "lat": 9.66005294985399,
+          "lng": 123.85651490385382
+        }
+      ],
+      "computedAreaM2": 93.0576171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790102579120",
+      "parkingSpaceId": "15",
+      "areaName": "Wisdom 2",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.660348103890412,
+          "lng": 123.85663319272464
+        },
+        {
+          "lat": 9.660330933987593,
+          "lng": 123.85666618845488
+        },
+        {
+          "lat": 9.660435205492291,
+          "lng": 123.85670641377592
+        },
+        {
+          "lat": 9.660450291452044,
+          "lng": 123.85667344841377
+        }
+      ],
+      "computedAreaM2": 49.51953125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 4.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.666666666666667,
+      "suitable": true
+    },
+    {
+      "id": "1790102747555",
+      "parkingSpaceId": "16",
+      "areaName": "Wisdom 3",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.660716153328018,
+          "lng": 123.85681176221094
+        },
+        {
+          "lat": 9.660738784264394,
+          "lng": 123.85676724274114
+        },
+        {
+          "lat": 9.66092581905893,
+          "lng": 123.85684118963678
+        },
+        {
+          "lat": 9.660923436541468,
+          "lng": 123.8568896673139
+        }
+      ],
+      "computedAreaM2": 123.595703125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790102936184",
+      "parkingSpaceId": "16",
+      "areaName": "Wisdom 4",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.660199306681355,
+          "lng": 123.85655547403347
+        },
+        {
+          "lat": 9.660203826516954,
+          "lng": 123.85651032255359
+        },
+        {
+          "lat": 9.660086816147588,
+          "lng": 123.8564712056211
+        },
+        {
+          "lat": 9.660078527557253,
+          "lng": 123.85651063930847
+        }
+      ],
+      "computedAreaM2": 64.7119140625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790103272118",
+      "parkingSpaceId": "18",
+      "areaName": "Wrenley's",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.663519680026326,
+          "lng": 123.85794618669782
+        },
+        {
+          "lat": 9.663562798538464,
+          "lng": 123.85787381828578
+        },
+        {
+          "lat": 9.663728724195284,
+          "lng": 123.85796946110108
+        },
+        {
+          "lat": 9.663710950562654,
+          "lng": 123.85801183461516
+        }
+      ],
+      "computedAreaM2": 155.16796875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790103681194",
+      "parkingSpaceId": "19",
+      "areaName": "Tool Haven",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.66631556742291,
+          "lng": 123.85531657602662
+        },
+        {
+          "lat": 9.666311419776681,
+          "lng": 123.8552655498122
+        },
+        {
+          "lat": 9.666925744349856,
+          "lng": 123.85520407499772
+        },
+        {
+          "lat": 9.6669316915996,
+          "lng": 123.85524956539956
+        }
+      ],
+      "computedAreaM2": 366.65625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790103863505",
+      "parkingSpaceId": "20",
+      "areaName": "VDT 1",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.668281634366297,
+          "lng": 123.85574028137407
+        },
+        {
+          "lat": 9.668349353126256,
+          "lng": 123.8560441938796
+        },
+        {
+          "lat": 9.66827862850859,
+          "lng": 123.85605740391928
+        },
+        {
+          "lat": 9.66821865041782,
+          "lng": 123.85575079203865
+        }
+      ],
+      "computedAreaM2": 258.5576171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790104039769",
+      "parkingSpaceId": "21",
+      "areaName": "VDT 2",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.668771688662309,
+          "lng": 123.85513906771097
+        },
+        {
+          "lat": 9.668782318197641,
+          "lng": 123.85519113790659
+        },
+        {
+          "lat": 9.668477372425432,
+          "lng": 123.85526573088475
+        },
+        {
+          "lat": 9.66847535132337,
+          "lng": 123.85521250708939
+        }
+      ],
+      "computedAreaM2": 199.0751953125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790104149890",
+      "parkingSpaceId": "22",
+      "areaName": "VDT 3",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.66820141067735,
+          "lng": 123.8552793480533
+        },
+        {
+          "lat": 9.668213028832954,
+          "lng": 123.85532967552854
+        },
+        {
+          "lat": 9.668370238178698,
+          "lng": 123.85529091958354
+        },
+        {
+          "lat": 9.668368294721272,
+          "lng": 123.8552381972636
+        }
+      ],
+      "computedAreaM2": 105.3076171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790104662522",
+      "parkingSpaceId": "23",
+      "areaName": "St. Peter Chapels - Taloto",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.669110992065525,
+          "lng": 123.84909595402088
+        },
+        {
+          "lat": 9.669093437253713,
+          "lng": 123.8491531299719
+        },
+        {
+          "lat": 9.668438365895836,
+          "lng": 123.84890020136142
+        },
+        {
+          "lat": 9.668503779688752,
+          "lng": 123.84876720930116
+        },
+        {
+          "lat": 9.66864693306949,
+          "lng": 123.84882964950853
+        },
+        {
+          "lat": 9.668617851259405,
+          "lng": 123.84890140680132
+        }
+      ],
+      "computedAreaM2": 685.6630859375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790105016766",
+      "parkingSpaceId": "24",
+      "areaName": "Imamaculate Heart of Mary Seminary",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.675254771863802,
+          "lng": 123.85513428268517
+        },
+        {
+          "lat": 9.675198446613262,
+          "lng": 123.8551420987288
+        },
+        {
+          "lat": 9.67522966848355,
+          "lng": 123.85541200326419
+        },
+        {
+          "lat": 9.675284982714032,
+          "lng": 123.85539739179202
+        }
+      ],
+      "computedAreaM2": 185.93359375,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
