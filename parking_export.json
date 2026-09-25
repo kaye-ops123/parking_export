@@ -1,23 +1,23 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T03:35:30.041347",
+  "generatedAt": "2026-09-25T18:55:30.371688",
   "primaryDataTable": [
     {
-      "siteId": "sada",
-      "areaName": "adsasfc",
+      "siteId": "24",
+      "areaName": "BISU - MC",
       "computedAreaM2": 282.615234375,
       "shadingCondition": "Very High",
       "orientation": "North"
     },
     {
-      "siteId": "1",
+      "siteId": "17",
       "areaName": "1232",
       "computedAreaM2": 1123.7431640625,
       "shadingCondition": "Very High",
       "orientation": "South"
     },
     {
-      "siteId": "1",
+      "siteId": "19",
       "areaName": "12",
       "computedAreaM2": 473.6357421875,
       "shadingCondition": "None",
@@ -25,132 +25,132 @@
     },
     {
       "siteId": "12",
-      "areaName": "123",
+      "areaName": "City Hardware - J.A. Clarin Street",
       "computedAreaM2": 485.771484375,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "123",
-      "areaName": "123",
+      "siteId": "10",
+      "areaName": "Front of Holy Spirit School of Tagbilaran",
       "computedAreaM2": 401.5361328125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "123",
-      "areaName": "123",
+      "siteId": "1",
+      "areaName": "Shang Restaurant",
       "computedAreaM2": 294.330078125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "12",
-      "areaName": "1231",
+      "siteId": "3",
+      "areaName": "Toyota - Taloto Branch",
       "computedAreaM2": 507.8720703125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "01",
+      "siteId": "20",
       "areaName": "ACE Area",
       "computedAreaM2": 770.1826171875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "02",
+      "siteId": "29",
       "areaName": "Panglao Bus Terminal_Cogon",
       "computedAreaM2": 1417.2001953125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "04",
+      "siteId": "31",
       "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
       "computedAreaM2": 143.0537109375,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "05",
+      "siteId": "27",
       "areaName": "Galleria Luisa",
       "computedAreaM2": 4479.2529296875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "06",
+      "siteId": "28",
       "areaName": "Galleria Luisa Front",
       "computedAreaM2": 674.8701171875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "07",
+      "siteId": "26",
       "areaName": "Ramiro Hospital",
       "computedAreaM2": 1636.70703125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "08",
+      "siteId": "25",
       "areaName": "K of C",
       "computedAreaM2": 688.9658203125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "09",
+      "siteId": "22",
       "areaName": "UB",
       "computedAreaM2": 1372.31640625,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "10",
+      "siteId": "23",
       "areaName": "Vaper's Hub",
       "computedAreaM2": 383.0966796875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "11",
+      "siteId": "21",
       "areaName": "Cultural",
       "computedAreaM2": 1072.6748046875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "12",
+      "siteId": "32",
       "areaName": "ODF Pet Shop",
       "computedAreaM2": 77.41015625,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "13",
+      "siteId": "20",
       "areaName": "Blue Ocean Food Park & KTV Bar",
       "computedAreaM2": 670.4384765625,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "14",
+      "siteId": "15",
       "areaName": "Wisdom 1",
       "computedAreaM2": 93.0576171875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "15",
+      "siteId": "14",
       "areaName": "Wisdom 2",
       "computedAreaM2": 49.51953125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "16",
+      "siteId": "13",
       "areaName": "Wisdom 3",
       "computedAreaM2": 123.595703125,
       "shadingCondition": "None",
@@ -164,58 +164,72 @@
       "orientation": "South"
     },
     {
-      "siteId": "18",
+      "siteId": "11",
       "areaName": "Wrenley's",
       "computedAreaM2": 155.16796875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "19",
+      "siteId": "9",
       "areaName": "Tool Haven",
       "computedAreaM2": 366.65625,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "20",
+      "siteId": "7",
       "areaName": "VDT 1",
       "computedAreaM2": 258.5576171875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "21",
+      "siteId": "5",
       "areaName": "VDT 2",
       "computedAreaM2": 199.0751953125,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "22",
+      "siteId": "6",
       "areaName": "VDT 3",
       "computedAreaM2": 105.3076171875,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "23",
+      "siteId": "8",
       "areaName": "St. Peter Chapels - Taloto",
       "computedAreaM2": 685.6630859375,
       "shadingCondition": "None",
       "orientation": "South"
     },
     {
-      "siteId": "24",
+      "siteId": "2",
       "areaName": "Imamaculate Heart of Mary Seminary",
       "computedAreaM2": 185.93359375,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "18",
+      "areaName": "Tagbi Public Market",
+      "computedAreaM2": 1039.0634765625,
+      "shadingCondition": "None",
+      "orientation": "South"
+    },
+    {
+      "siteId": "4",
+      "areaName": "in front of Toyota - Taloto Branch",
+      "computedAreaM2": 390.4130859375,
       "shadingCondition": "None",
       "orientation": "South"
     }
   ],
   "suitabilityAssessmentTable": [
     {
-      "siteId": "sada",
+      "siteId": "24",
       "areaScore": 5.0,
       "shadingScore": 1.0,
       "orientationScore": 1.0,
@@ -223,7 +237,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "1",
+      "siteId": "17",
       "areaScore": 5.0,
       "shadingScore": 1.0,
       "orientationScore": 5.0,
@@ -231,7 +245,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "1",
+      "siteId": "19",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -240,94 +254,6 @@
     },
     {
       "siteId": "12",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "123",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "123",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "12",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "01",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "02",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "04",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "05",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "06",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "07",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "08",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "09",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -343,7 +269,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "11",
+      "siteId": "1",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -351,63 +277,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "12",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "13",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "14",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "15",
-      "areaScore": 4.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 4.666666666666667,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "16",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "16",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "18",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
-    },
-    {
-      "siteId": "19",
+      "siteId": "3",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -423,7 +293,47 @@
       "suitable": "YES"
     },
     {
-      "siteId": "21",
+      "siteId": "29",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "31",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "27",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "28",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "26",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "25",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -447,7 +357,127 @@
       "suitable": "YES"
     },
     {
-      "siteId": "24",
+      "siteId": "21",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "32",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "20",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "15",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "14",
+      "areaScore": 4.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.666666666666667,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "13",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "16",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "11",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "9",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "7",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "5",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "6",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "8",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "2",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "18",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "4",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -458,8 +488,8 @@
   "parkingSpaces": [
     {
       "id": "1777605186897",
-      "parkingSpaceId": "sada",
-      "areaName": "adsasfc",
+      "parkingSpaceId": "24",
+      "areaName": "BISU - MC",
       "description": "asdfdz",
       "points": [
         {
@@ -498,7 +528,7 @@
     },
     {
       "id": "1787651884317",
-      "parkingSpaceId": "1",
+      "parkingSpaceId": "17",
       "areaName": "1232",
       "description": "123",
       "points": [
@@ -530,7 +560,7 @@
     },
     {
       "id": "1787654630573",
-      "parkingSpaceId": "1",
+      "parkingSpaceId": "19",
       "areaName": "12",
       "description": "",
       "points": [
@@ -571,7 +601,7 @@
     {
       "id": "1787654893890",
       "parkingSpaceId": "12",
-      "areaName": "123",
+      "areaName": "City Hardware - J.A. Clarin Street",
       "description": "",
       "points": [
         {
@@ -618,8 +648,8 @@
     },
     {
       "id": "1787656038606",
-      "parkingSpaceId": "123",
-      "areaName": "123",
+      "parkingSpaceId": "10",
+      "areaName": "Front of Holy Spirit School of Tagbilaran",
       "description": "",
       "points": [
         {
@@ -758,8 +788,8 @@
     },
     {
       "id": "1787656489861",
-      "parkingSpaceId": "123",
-      "areaName": "123",
+      "parkingSpaceId": "1",
+      "areaName": "Shang Restaurant",
       "description": "",
       "points": [
         {
@@ -806,8 +836,8 @@
     },
     {
       "id": "1787656926217",
-      "parkingSpaceId": "12",
-      "areaName": "1231",
+      "parkingSpaceId": "3",
+      "areaName": "Toyota - Taloto Branch",
       "description": "",
       "points": [
         {
@@ -842,7 +872,7 @@
     },
     {
       "id": "1789887003234",
-      "parkingSpaceId": "01",
+      "parkingSpaceId": "20",
       "areaName": "ACE Area",
       "description": "",
       "points": [
@@ -882,7 +912,7 @@
     },
     {
       "id": "1789888781304",
-      "parkingSpaceId": "02",
+      "parkingSpaceId": "29",
       "areaName": "Panglao Bus Terminal_Cogon",
       "description": "",
       "points": [
@@ -954,7 +984,7 @@
     },
     {
       "id": "1789889560567",
-      "parkingSpaceId": "04",
+      "parkingSpaceId": "31",
       "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
       "description": "",
       "points": [
@@ -986,7 +1016,7 @@
     },
     {
       "id": "1789890605650",
-      "parkingSpaceId": "05",
+      "parkingSpaceId": "27",
       "areaName": "Galleria Luisa",
       "description": "",
       "points": [
@@ -1078,7 +1108,7 @@
     },
     {
       "id": "1789894732968",
-      "parkingSpaceId": "06",
+      "parkingSpaceId": "28",
       "areaName": "Galleria Luisa Front",
       "description": "",
       "points": [
@@ -1110,7 +1140,7 @@
     },
     {
       "id": "1789895702718",
-      "parkingSpaceId": "07",
+      "parkingSpaceId": "26",
       "areaName": "Ramiro Hospital",
       "description": "",
       "points": [
@@ -1194,7 +1224,7 @@
     },
     {
       "id": "1789895923626",
-      "parkingSpaceId": "08",
+      "parkingSpaceId": "25",
       "areaName": "K of C",
       "description": "",
       "points": [
@@ -1226,7 +1256,7 @@
     },
     {
       "id": "1789896435024",
-      "parkingSpaceId": "09",
+      "parkingSpaceId": "22",
       "areaName": "UB",
       "description": "",
       "points": [
@@ -1342,7 +1372,7 @@
     },
     {
       "id": "1790100135420",
-      "parkingSpaceId": "10",
+      "parkingSpaceId": "23",
       "areaName": "Vaper's Hub",
       "description": "",
       "points": [
@@ -1386,7 +1416,7 @@
     },
     {
       "id": "1790100805344",
-      "parkingSpaceId": "11",
+      "parkingSpaceId": "21",
       "areaName": "Cultural",
       "description": "",
       "points": [
@@ -1454,7 +1484,7 @@
     },
     {
       "id": "1790101223510",
-      "parkingSpaceId": "12",
+      "parkingSpaceId": "32",
       "areaName": "ODF Pet Shop",
       "description": "",
       "points": [
@@ -1486,7 +1516,7 @@
     },
     {
       "id": "1790101919937",
-      "parkingSpaceId": "13",
+      "parkingSpaceId": "20",
       "areaName": "Blue Ocean Food Park & KTV Bar",
       "description": "",
       "points": [
@@ -1550,7 +1580,7 @@
     },
     {
       "id": "1790102356467",
-      "parkingSpaceId": "14",
+      "parkingSpaceId": "15",
       "areaName": "Wisdom 1",
       "description": "",
       "points": [
@@ -1582,7 +1612,7 @@
     },
     {
       "id": "1790102579120",
-      "parkingSpaceId": "15",
+      "parkingSpaceId": "14",
       "areaName": "Wisdom 2",
       "description": "",
       "points": [
@@ -1614,7 +1644,7 @@
     },
     {
       "id": "1790102747555",
-      "parkingSpaceId": "16",
+      "parkingSpaceId": "13",
       "areaName": "Wisdom 3",
       "description": "",
       "points": [
@@ -1678,7 +1708,7 @@
     },
     {
       "id": "1790103272118",
-      "parkingSpaceId": "18",
+      "parkingSpaceId": "11",
       "areaName": "Wrenley's",
       "description": "",
       "points": [
@@ -1710,7 +1740,7 @@
     },
     {
       "id": "1790103681194",
-      "parkingSpaceId": "19",
+      "parkingSpaceId": "9",
       "areaName": "Tool Haven",
       "description": "",
       "points": [
@@ -1742,7 +1772,7 @@
     },
     {
       "id": "1790103863505",
-      "parkingSpaceId": "20",
+      "parkingSpaceId": "7",
       "areaName": "VDT 1",
       "description": "",
       "points": [
@@ -1774,7 +1804,7 @@
     },
     {
       "id": "1790104039769",
-      "parkingSpaceId": "21",
+      "parkingSpaceId": "5",
       "areaName": "VDT 2",
       "description": "",
       "points": [
@@ -1806,7 +1836,7 @@
     },
     {
       "id": "1790104149890",
-      "parkingSpaceId": "22",
+      "parkingSpaceId": "6",
       "areaName": "VDT 3",
       "description": "",
       "points": [
@@ -1838,7 +1868,7 @@
     },
     {
       "id": "1790104662522",
-      "parkingSpaceId": "23",
+      "parkingSpaceId": "8",
       "areaName": "St. Peter Chapels - Taloto",
       "description": "",
       "points": [
@@ -1878,7 +1908,7 @@
     },
     {
       "id": "1790105016766",
-      "parkingSpaceId": "24",
+      "parkingSpaceId": "2",
       "areaName": "Imamaculate Heart of Mary Seminary",
       "description": "",
       "points": [
@@ -1900,6 +1930,78 @@
         }
       ],
       "computedAreaM2": 185.93359375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790328083547",
+      "parkingSpaceId": "18",
+      "areaName": "Tagbi Public Market",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.655505375303582,
+          "lng": 123.8709439024669
+        },
+        {
+          "lat": 9.655120949604486,
+          "lng": 123.87094641414207
+        },
+        {
+          "lat": 9.65513562001029,
+          "lng": 123.87071823580396
+        },
+        {
+          "lat": 9.655508643721983,
+          "lng": 123.87072297663975
+        }
+      ],
+      "computedAreaM2": 1039.0634765625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true
+    },
+    {
+      "id": "1790331170359",
+      "parkingSpaceId": "4",
+      "areaName": "in front of Toyota - Taloto Branch",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.672508956864206,
+          "lng": 123.85958645738748
+        },
+        {
+          "lat": 9.672161159623021,
+          "lng": 123.85952939636388
+        },
+        {
+          "lat": 9.672197815977416,
+          "lng": 123.85934904987852
+        },
+        {
+          "lat": 9.672319627835163,
+          "lng": 123.8593623599427
+        },
+        {
+          "lat": 9.672284059888593,
+          "lng": 123.85950582693648
+        },
+        {
+          "lat": 9.672516677043667,
+          "lng": 123.85954717015771
+        }
+      ],
+      "computedAreaM2": 390.4130859375,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
