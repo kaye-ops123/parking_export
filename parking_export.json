@@ -1,230 +1,294 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-25T18:55:30.371688",
+  "generatedAt": "2026-09-26T03:12:24.432123",
   "primaryDataTable": [
     {
       "siteId": "24",
       "areaName": "BISU - MC",
       "computedAreaM2": 282.615234375,
       "shadingCondition": "Very High",
-      "orientation": "North"
+      "orientation": "North",
+      "solarIrradianceDailyKWhM2": 4.767000198364258,
+      "solarIrradianceAnnualKWhM2": 1741.1468224525452
     },
     {
       "siteId": "17",
       "areaName": "1232",
       "computedAreaM2": 1123.7431640625,
       "shadingCondition": "Very High",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.738999843597412,
+      "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
       "siteId": "19",
       "areaName": "12",
       "computedAreaM2": 473.6357421875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.738999843597412,
+      "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
       "siteId": "12",
       "areaName": "City Hardware - J.A. Clarin Street",
       "computedAreaM2": 485.771484375,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.698999881744385,
+      "solarIrradianceAnnualKWhM2": 1716.3097068071365
     },
     {
       "siteId": "10",
       "areaName": "Front of Holy Spirit School of Tagbilaran",
       "computedAreaM2": 401.5361328125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.683000087738037,
+      "solarIrradianceAnnualKWhM2": 1710.465782046318
     },
     {
       "siteId": "1",
       "areaName": "Shang Restaurant",
       "computedAreaM2": 294.330078125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.625,
+      "solarIrradianceAnnualKWhM2": 1689.28125
     },
     {
       "siteId": "3",
       "areaName": "Toyota - Taloto Branch",
       "computedAreaM2": 507.8720703125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.650000095367432,
+      "solarIrradianceAnnualKWhM2": 1698.4125348329544
     },
     {
       "siteId": "20",
       "areaName": "ACE Area",
       "computedAreaM2": 770.1826171875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.809999942779541,
+      "solarIrradianceAnnualKWhM2": 1756.8524791002274
     },
     {
       "siteId": "29",
       "areaName": "Panglao Bus Terminal_Cogon",
       "computedAreaM2": 1417.2001953125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.796999931335449,
+      "solarIrradianceAnnualKWhM2": 1752.1042249202728
     },
     {
       "siteId": "31",
       "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
       "computedAreaM2": 143.0537109375,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.791999816894531,
+      "solarIrradianceAnnualKWhM2": 1750.2779331207275
     },
     {
       "siteId": "27",
       "areaName": "Galleria Luisa",
       "computedAreaM2": 4479.2529296875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.7870001792907715,
+      "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
       "siteId": "28",
       "areaName": "Galleria Luisa Front",
       "computedAreaM2": 674.8701171875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.7870001792907715,
+      "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
       "siteId": "26",
       "areaName": "Ramiro Hospital",
       "computedAreaM2": 1636.70703125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.77400016784668,
+      "solarIrradianceAnnualKWhM2": 1743.7035613059998
     },
     {
       "siteId": "25",
       "areaName": "K of C",
       "computedAreaM2": 688.9658203125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.763000011444092,
+      "solarIrradianceAnnualKWhM2": 1739.6857541799545
     },
     {
       "siteId": "22",
       "areaName": "UB",
       "computedAreaM2": 1372.31640625,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.754000186920166,
+      "solarIrradianceAnnualKWhM2": 1736.3985682725906
     },
     {
       "siteId": "23",
       "areaName": "Vaper's Hub",
       "computedAreaM2": 383.0966796875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.751999855041504,
+      "solarIrradianceAnnualKWhM2": 1735.6679470539093
     },
     {
       "siteId": "21",
       "areaName": "Cultural",
       "computedAreaM2": 1072.6748046875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.756999969482422,
+      "solarIrradianceAnnualKWhM2": 1737.4942388534546
     },
     {
       "siteId": "32",
       "areaName": "ODF Pet Shop",
       "computedAreaM2": 77.41015625,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.769000053405762,
+      "solarIrradianceAnnualKWhM2": 1741.8772695064545
     },
     {
       "siteId": "20",
       "areaName": "Blue Ocean Food Park & KTV Bar",
       "computedAreaM2": 670.4384765625,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.7230000495910645,
+      "solarIrradianceAnnualKWhM2": 1725.0757681131363
     },
     {
       "siteId": "15",
       "areaName": "Wisdom 1",
       "computedAreaM2": 93.0576171875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "siteId": "14",
       "areaName": "Wisdom 2",
       "computedAreaM2": 49.51953125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "siteId": "13",
       "areaName": "Wisdom 3",
       "computedAreaM2": 123.595703125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "siteId": "16",
       "areaName": "Wisdom 4",
       "computedAreaM2": 64.7119140625,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "siteId": "11",
       "areaName": "Wrenley's",
       "computedAreaM2": 155.16796875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.686999797821045,
+      "solarIrradianceAnnualKWhM2": 1711.9266761541367
     },
     {
       "siteId": "9",
       "areaName": "Tool Haven",
       "computedAreaM2": 366.65625,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.671999931335449,
+      "solarIrradianceAnnualKWhM2": 1706.4479749202728
     },
     {
       "siteId": "7",
       "areaName": "VDT 1",
       "computedAreaM2": 258.5576171875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.659999847412109,
+      "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
       "siteId": "5",
       "areaName": "VDT 2",
       "computedAreaM2": 199.0751953125,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.659999847412109,
+      "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
       "siteId": "6",
       "areaName": "VDT 3",
       "computedAreaM2": 105.3076171875,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.659999847412109,
+      "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
       "siteId": "8",
       "areaName": "St. Peter Chapels - Taloto",
       "computedAreaM2": 685.6630859375,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.6529998779296875,
+      "solarIrradianceAnnualKWhM2": 1699.5082054138184
     },
     {
       "siteId": "2",
       "areaName": "Imamaculate Heart of Mary Seminary",
       "computedAreaM2": 185.93359375,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.623000144958496,
+      "solarIrradianceAnnualKWhM2": 1688.5508029460907
     },
     {
       "siteId": "18",
       "areaName": "Tagbi Public Market",
       "computedAreaM2": 1039.0634765625,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.738999843597412,
+      "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
       "siteId": "4",
       "areaName": "in front of Toyota - Taloto Branch",
       "computedAreaM2": 390.4130859375,
       "shadingCondition": "None",
-      "orientation": "South"
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.650000095367432,
+      "solarIrradianceAnnualKWhM2": 1698.4125348329544
     }
   ],
   "suitabilityAssessmentTable": [
@@ -524,7 +588,9 @@
       "shadingScore": 1.0,
       "orientationScore": 1.0,
       "suitabilityRating": 2.3333333333333335,
-      "suitable": false
+      "suitable": false,
+      "solarIrradianceDailyKWhM2": 4.767000198364258,
+      "solarIrradianceAnnualKWhM2": 1741.1468224525452
     },
     {
       "id": "1787651884317",
@@ -556,7 +622,9 @@
       "shadingScore": 1.0,
       "orientationScore": 5.0,
       "suitabilityRating": 3.6666666666666665,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.738999843597412,
+      "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
       "id": "1787654630573",
@@ -596,7 +664,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.738999843597412,
+      "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
       "id": "1787654893890",
@@ -644,7 +714,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.698999881744385,
+      "solarIrradianceAnnualKWhM2": 1716.3097068071365
     },
     {
       "id": "1787656038606",
@@ -784,7 +856,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.683000087738037,
+      "solarIrradianceAnnualKWhM2": 1710.465782046318
     },
     {
       "id": "1787656489861",
@@ -832,7 +906,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.625,
+      "solarIrradianceAnnualKWhM2": 1689.28125
     },
     {
       "id": "1787656926217",
@@ -868,7 +944,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.650000095367432,
+      "solarIrradianceAnnualKWhM2": 1698.4125348329544
     },
     {
       "id": "1789887003234",
@@ -908,7 +986,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.809999942779541,
+      "solarIrradianceAnnualKWhM2": 1756.8524791002274
     },
     {
       "id": "1789888781304",
@@ -980,7 +1060,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.796999931335449,
+      "solarIrradianceAnnualKWhM2": 1752.1042249202728
     },
     {
       "id": "1789889560567",
@@ -1012,7 +1094,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.791999816894531,
+      "solarIrradianceAnnualKWhM2": 1750.2779331207275
     },
     {
       "id": "1789890605650",
@@ -1104,7 +1188,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.7870001792907715,
+      "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
       "id": "1789894732968",
@@ -1136,7 +1222,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.7870001792907715,
+      "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
       "id": "1789895702718",
@@ -1220,7 +1308,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.77400016784668,
+      "solarIrradianceAnnualKWhM2": 1743.7035613059998
     },
     {
       "id": "1789895923626",
@@ -1252,7 +1342,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.763000011444092,
+      "solarIrradianceAnnualKWhM2": 1739.6857541799545
     },
     {
       "id": "1789896435024",
@@ -1368,7 +1460,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.754000186920166,
+      "solarIrradianceAnnualKWhM2": 1736.3985682725906
     },
     {
       "id": "1790100135420",
@@ -1412,7 +1506,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.751999855041504,
+      "solarIrradianceAnnualKWhM2": 1735.6679470539093
     },
     {
       "id": "1790100805344",
@@ -1480,7 +1576,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.756999969482422,
+      "solarIrradianceAnnualKWhM2": 1737.4942388534546
     },
     {
       "id": "1790101223510",
@@ -1512,7 +1610,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.769000053405762,
+      "solarIrradianceAnnualKWhM2": 1741.8772695064545
     },
     {
       "id": "1790101919937",
@@ -1576,7 +1676,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.7230000495910645,
+      "solarIrradianceAnnualKWhM2": 1725.0757681131363
     },
     {
       "id": "1790102356467",
@@ -1608,7 +1710,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "id": "1790102579120",
@@ -1640,7 +1744,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 4.666666666666667,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "id": "1790102747555",
@@ -1672,7 +1778,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "id": "1790102936184",
@@ -1704,7 +1812,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.697000026702881,
+      "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
       "id": "1790103272118",
@@ -1736,7 +1846,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.686999797821045,
+      "solarIrradianceAnnualKWhM2": 1711.9266761541367
     },
     {
       "id": "1790103681194",
@@ -1768,7 +1880,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.671999931335449,
+      "solarIrradianceAnnualKWhM2": 1706.4479749202728
     },
     {
       "id": "1790103863505",
@@ -1800,7 +1914,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.659999847412109,
+      "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
       "id": "1790104039769",
@@ -1832,7 +1948,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.659999847412109,
+      "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
       "id": "1790104149890",
@@ -1864,7 +1982,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.659999847412109,
+      "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
       "id": "1790104662522",
@@ -1904,7 +2024,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.6529998779296875,
+      "solarIrradianceAnnualKWhM2": 1699.5082054138184
     },
     {
       "id": "1790105016766",
@@ -1936,7 +2058,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.623000144958496,
+      "solarIrradianceAnnualKWhM2": 1688.5508029460907
     },
     {
       "id": "1790328083547",
@@ -1968,7 +2092,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.738999843597412,
+      "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
       "id": "1790331170359",
@@ -2008,7 +2134,9 @@
       "shadingScore": 5.0,
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
-      "suitable": true
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.650000095367432,
+      "solarIrradianceAnnualKWhM2": 1698.4125348329544
     }
   ]
 }
