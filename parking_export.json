@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T13:59:46.833346",
+  "generatedAt": "2026-10-05T02:22:39.472877",
   "primaryDataTable": [
     {
       "siteId": "1",
@@ -77,7 +77,7 @@
     {
       "siteId": "9",
       "areaName": "Holy Spirit 2",
-      "computedAreaM2": 1250.115234375,
+      "computedAreaM2": 1250.1494140625,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.683000087738037,
@@ -95,7 +95,7 @@
     {
       "siteId": "11",
       "areaName": "Holy Spirit 1",
-      "computedAreaM2": 2442.4189453125,
+      "computedAreaM2": 2442.3935546875,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.683000087738037,
@@ -104,7 +104,7 @@
     {
       "siteId": "12",
       "areaName": "Wrenley's",
-      "computedAreaM2": 245.626953125,
+      "computedAreaM2": 245.6875,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.686999797821045,
@@ -113,7 +113,7 @@
     {
       "siteId": "13",
       "areaName": "City Hardware - J.A. Clarin Street",
-      "computedAreaM2": 485.771484375,
+      "computedAreaM2": 499.296875,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.698999881744385,
@@ -274,8 +274,8 @@
     },
     {
       "siteId": "31",
-      "areaName": "Vaper's Hub",
-      "computedAreaM2": 383.0966796875,
+      "areaName": "Liteport (Vaper's Hub)",
+      "computedAreaM2": 383.138671875,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.751999855041504,
@@ -284,7 +284,7 @@
     {
       "siteId": "32",
       "areaName": "UB",
-      "computedAreaM2": 1372.31640625,
+      "computedAreaM2": 1372.3330078125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.754000186920166,
@@ -293,7 +293,7 @@
     {
       "siteId": "33",
       "areaName": "BISU - MC",
-      "computedAreaM2": 282.615234375,
+      "computedAreaM2": 282.658203125,
       "shadingCondition": "Very High",
       "orientation": "North",
       "solarIrradianceDailyKWhM2": 4.767000198364258,
@@ -302,7 +302,7 @@
     {
       "siteId": "34",
       "areaName": "K of C",
-      "computedAreaM2": 688.9658203125,
+      "computedAreaM2": 688.904296875,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.763000011444092,
@@ -311,7 +311,7 @@
     {
       "siteId": "35",
       "areaName": "Ramiro Hospital",
-      "computedAreaM2": 1636.70703125,
+      "computedAreaM2": 1636.6533203125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.77400016784668,
@@ -329,7 +329,7 @@
     {
       "siteId": "37",
       "areaName": "Galleria Luisa",
-      "computedAreaM2": 4479.2529296875,
+      "computedAreaM2": 4479.32421875,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.7870001792907715,
@@ -1083,8 +1083,8 @@
           "lng": 123.86699842874731
         },
         {
-          "lat": 9.667032631820817,
-          "lng": 123.86702006423846
+          "lat": 9.667032645547977,
+          "lng": 123.86702014702345
         },
         {
           "lat": 9.6669965232839,
@@ -1127,7 +1127,7 @@
           "lng": 123.86592239254875
         }
       ],
-      "computedAreaM2": 1250.115234375,
+      "computedAreaM2": 1250.1494140625,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -1179,8 +1179,8 @@
       "description": "",
       "points": [
         {
-          "lat": 9.66746093142393,
-          "lng": 123.86550295702673
+          "lat": 9.66746090391025,
+          "lng": 123.86550295538783
         },
         {
           "lat": 9.665762542525005,
@@ -1195,7 +1195,7 @@
           "lng": 123.86561872350767
         }
       ],
-      "computedAreaM2": 2442.4189453125,
+      "computedAreaM2": 2442.3935546875,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -1213,8 +1213,8 @@
       "description": "",
       "points": [
         {
-          "lat": 9.663509982573112,
-          "lng": 123.85796155994278
+          "lat": 9.663509961734016,
+          "lng": 123.8579615993703
         },
         {
           "lat": 9.663560218093716,
@@ -1229,7 +1229,7 @@
           "lng": 123.85804766591009
         }
       ],
-      "computedAreaM2": 245.626953125,
+      "computedAreaM2": 245.6875,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -1251,35 +1251,35 @@
           "lng": 123.86769366595144
         },
         {
-          "lat": 9.662821032304201,
-          "lng": 123.86759591454357
+          "lat": 9.662820383533958,
+          "lng": 123.86758402821953
         },
         {
-          "lat": 9.662776375549802,
-          "lng": 123.86757207273678
+          "lat": 9.66279054730307,
+          "lng": 123.86758565162914
         },
         {
-          "lat": 9.662782889486039,
-          "lng": 123.86754594216427
+          "lat": 9.662793227342217,
+          "lng": 123.86753616784236
         },
         {
-          "lat": 9.662655885556433,
-          "lng": 123.86747914055309
+          "lat": 9.662653415845062,
+          "lng": 123.86747744582296
         },
         {
-          "lat": 9.66265431760637,
-          "lng": 123.86750250322709
+          "lat": 9.662646598412524,
+          "lng": 123.86749852223957
         },
         {
-          "lat": 9.662547326911294,
-          "lng": 123.86745834551624
+          "lat": 9.662553445207712,
+          "lng": 123.86746086982964
         },
         {
-          "lat": 9.662514544248783,
-          "lng": 123.8675890698208
+          "lat": 9.662514547244278,
+          "lng": 123.86758906510498
         }
       ],
-      "computedAreaM2": 485.771484375,
+      "computedAreaM2": 499.296875,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2083,7 +2083,7 @@
     {
       "id": "1790100135420",
       "parkingSpaceId": "31",
-      "areaName": "Vaper's Hub",
+      "areaName": "Liteport (Vaper's Hub)",
       "description": "",
       "points": [
         {
@@ -2091,8 +2091,8 @@
           "lng": 123.85197877324713
         },
         {
-          "lat": 9.64802578798643,
-          "lng": 123.85189898949082
+          "lat": 9.648025831766967,
+          "lng": 123.85189894009203
         },
         {
           "lat": 9.647926601196682,
@@ -2115,7 +2115,7 @@
           "lng": 123.85201639440658
         }
       ],
-      "computedAreaM2": 383.0966796875,
+      "computedAreaM2": 383.138671875,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2157,8 +2157,8 @@
           "lng": 123.85484463568369
         },
         {
-          "lat": 9.647905704833178,
-          "lng": 123.85481019419865
+          "lat": 9.647905661440097,
+          "lng": 123.85481015730572
         },
         {
           "lat": 9.64799790236361,
@@ -2233,7 +2233,7 @@
           "lng": 123.85506575145875
         }
       ],
-      "computedAreaM2": 1372.31640625,
+      "computedAreaM2": 1372.3330078125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2263,8 +2263,8 @@
           "lng": 123.85570691599453
         },
         {
-          "lat": 9.647495918529705,
-          "lng": 123.85570817729028
+          "lat": 9.647495976165262,
+          "lng": 123.85570817798768
         },
         {
           "lat": 9.647506110663592,
@@ -2275,7 +2275,7 @@
           "lng": 123.85558570766987
         }
       ],
-      "computedAreaM2": 282.615234375,
+      "computedAreaM2": 282.658203125,
       "shadingCondition": "Very High",
       "orientation": "North",
       "areaScore": 5.0,
@@ -2287,29 +2287,29 @@
       "solarIrradianceAnnualKWhM2": 1741.1468224525452
     },
     {
-      "id": "1789895923626",
+      "id": "1791136546627",
       "parkingSpaceId": "34",
       "areaName": "K of C",
       "description": "",
       "points": [
         {
-          "lat": 9.645820152594368,
-          "lng": 123.85198353696802
+          "lat": 9.645914511448726,
+          "lng": 123.85213391314525
         },
         {
-          "lat": 9.645896100206855,
-          "lng": 123.85214459711574
+          "lat": 9.645655880808507,
+          "lng": 123.85226782467277
         },
         {
-          "lat": 9.64565447316392,
-          "lng": 123.85227550749494
+          "lat": 9.645562545301324,
+          "lng": 123.85207907490276
         },
         {
-          "lat": 9.645552687373975,
-          "lng": 123.85206901675309
+          "lat": 9.645833401231384,
+          "lng": 123.85197505851632
         }
       ],
-      "computedAreaM2": 688.9658203125,
+      "computedAreaM2": 688.904296875,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2343,8 +2343,8 @@
           "lng": 123.85231221586457
         },
         {
-          "lat": 9.644120931357559,
-          "lng": 123.85219414043976
+          "lat": 9.644120949501017,
+          "lng": 123.85219417703787
         },
         {
           "lat": 9.644207315702678,
@@ -2395,7 +2395,7 @@
           "lng": 123.85274437491753
         }
       ],
-      "computedAreaM2": 1636.70703125,
+      "computedAreaM2": 1636.6533203125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2467,8 +2467,8 @@
           "lng": 123.8536916982532
         },
         {
-          "lat": 9.642506545992232,
-          "lng": 123.85359465919635
+          "lat": 9.642506545657522,
+          "lng": 123.85359469562968
         },
         {
           "lat": 9.642506860042745,
@@ -2535,7 +2535,7 @@
           "lng": 123.85359490172289
         }
       ],
-      "computedAreaM2": 4479.2529296875,
+      "computedAreaM2": 4479.32421875,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
