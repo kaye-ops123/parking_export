@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T00:16:37.703178",
+  "generatedAt": "2026-10-04T13:59:46.833346",
   "primaryDataTable": [
     {
       "siteId": "1",
@@ -14,7 +14,7 @@
     {
       "siteId": "2",
       "areaName": "Imamaculate Heart of Mary Seminary",
-      "computedAreaM2": 185.93359375,
+      "computedAreaM2": 212.7587890625,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.623000144958496,
@@ -22,8 +22,8 @@
     },
     {
       "siteId": "3",
-      "areaName": "Toyota - Taloto Branch",
-      "computedAreaM2": 507.8720703125,
+      "areaName": "Toyota1",
+      "computedAreaM2": 890.64453125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.650000095367432,
@@ -31,8 +31,8 @@
     },
     {
       "siteId": "4",
-      "areaName": "in front of Toyota - Taloto Branch",
-      "computedAreaM2": 390.4130859375,
+      "areaName": "Toyota 2",
+      "computedAreaM2": 413.9453125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.650000095367432,
@@ -40,6 +40,15 @@
     },
     {
       "siteId": "5",
+      "areaName": "Christian Gospel Church",
+      "computedAreaM2": 2459.2158203125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.664999961853027,
+      "solarIrradianceAnnualKWhM2": 1703.8912360668182
+    },
+    {
+      "siteId": "6",
       "areaName": "VDT 2",
       "computedAreaM2": 456.181640625,
       "shadingCondition": "None",
@@ -48,7 +57,7 @@
       "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
-      "siteId": "6",
+      "siteId": "7",
       "areaName": "St. Peter Chapels - Taloto",
       "computedAreaM2": 673.537109375,
       "shadingCondition": "None",
@@ -57,7 +66,7 @@
       "solarIrradianceAnnualKWhM2": 1699.5082054138184
     },
     {
-      "siteId": "7",
+      "siteId": "8",
       "areaName": "VDT 1",
       "computedAreaM2": 2366.5087890625,
       "shadingCondition": "None",
@@ -66,7 +75,16 @@
       "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
-      "siteId": "8",
+      "siteId": "9",
+      "areaName": "Holy Spirit 2",
+      "computedAreaM2": 1250.115234375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.683000087738037,
+      "solarIrradianceAnnualKWhM2": 1710.465782046318
+    },
+    {
+      "siteId": "10",
       "areaName": "Tool Haven",
       "computedAreaM2": 366.65625,
       "shadingCondition": "None",
@@ -75,25 +93,25 @@
       "solarIrradianceAnnualKWhM2": 1706.4479749202728
     },
     {
-      "siteId": "9",
-      "areaName": "Front of Holy Spirit School of Tagbilaran",
-      "computedAreaM2": 401.5361328125,
+      "siteId": "11",
+      "areaName": "Holy Spirit 1",
+      "computedAreaM2": 2442.4189453125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.683000087738037,
       "solarIrradianceAnnualKWhM2": 1710.465782046318
     },
     {
-      "siteId": "10",
+      "siteId": "12",
       "areaName": "Wrenley's",
-      "computedAreaM2": 155.16796875,
+      "computedAreaM2": 245.626953125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.686999797821045,
       "solarIrradianceAnnualKWhM2": 1711.9266761541367
     },
     {
-      "siteId": "11",
+      "siteId": "13",
       "areaName": "City Hardware - J.A. Clarin Street",
       "computedAreaM2": 485.771484375,
       "shadingCondition": "None",
@@ -102,7 +120,7 @@
       "solarIrradianceAnnualKWhM2": 1716.3097068071365
     },
     {
-      "siteId": "12",
+      "siteId": "14",
       "areaName": "WISDOM",
       "computedAreaM2": 1759.4697265625,
       "shadingCondition": "None",
@@ -111,7 +129,7 @@
       "solarIrradianceAnnualKWhM2": 1715.5792597532272
     },
     {
-      "siteId": "13",
+      "siteId": "15",
       "areaName": "Bohol Provincial Capitol",
       "computedAreaM2": 2232.1474609375,
       "shadingCondition": "None",
@@ -120,7 +138,25 @@
       "solarIrradianceAnnualKWhM2": 1722.153805732727
     },
     {
-      "siteId": "14",
+      "siteId": "16",
+      "areaName": "Cogon Comercial CPG",
+      "computedAreaM2": 232.8701171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.708000183105469,
+      "solarIrradianceAnnualKWhM2": 1719.5970668792725
+    },
+    {
+      "siteId": "17",
+      "areaName": "ICM 3",
+      "computedAreaM2": 10152.1337890625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.736000061035156,
+      "solarIrradianceAnnualKWhM2": 1729.8240222930908
+    },
+    {
+      "siteId": "18",
       "areaName": "IBT Front",
       "computedAreaM2": 977.3740234375,
       "shadingCondition": "Very High",
@@ -129,7 +165,7 @@
       "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
-      "siteId": "15",
+      "siteId": "19",
       "areaName": "ICM 1",
       "computedAreaM2": 1225.7529296875,
       "shadingCondition": "None",
@@ -138,7 +174,7 @@
       "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
-      "siteId": "16",
+      "siteId": "20",
       "areaName": "Dao Public Market",
       "computedAreaM2": 655.7255859375,
       "shadingCondition": "None",
@@ -147,7 +183,7 @@
       "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
-      "siteId": "17",
+      "siteId": "21",
       "areaName": "ICM 3",
       "computedAreaM2": 8506.01171875,
       "shadingCondition": "None",
@@ -156,7 +192,7 @@
       "solarIrradianceAnnualKWhM2": 1729.8240222930908
     },
     {
-      "siteId": "18",
+      "siteId": "22",
       "areaName": "Dao Night Market",
       "computedAreaM2": 2969.8603515625,
       "shadingCondition": "None",
@@ -165,7 +201,7 @@
       "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
-      "siteId": "19",
+      "siteId": "23",
       "areaName": "Dao Public Market 2",
       "computedAreaM2": 1644.263671875,
       "shadingCondition": "None",
@@ -174,16 +210,7 @@
       "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
-      "siteId": "20",
-      "areaName": "ICM 2",
-      "computedAreaM2": 386.68359375,
-      "shadingCondition": "None",
-      "orientation": "South",
-      "solarIrradianceDailyKWhM2": 4.748000144958496,
-      "solarIrradianceAnnualKWhM2": 1734.2070529460907
-    },
-    {
-      "siteId": "21",
+      "siteId": "24",
       "areaName": "City Hall",
       "computedAreaM2": 2936.2470703125,
       "shadingCondition": "None",
@@ -192,16 +219,16 @@
       "solarIrradianceAnnualKWhM2": 1733.1112082004547
     },
     {
-      "siteId": "22",
+      "siteId": "25",
       "areaName": "Blue Ocean Food Park & KTV Bar",
-      "computedAreaM2": 670.4384765625,
+      "computedAreaM2": 657.20703125,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.7230000495910645,
       "solarIrradianceAnnualKWhM2": 1725.0757681131363
     },
     {
-      "siteId": "23",
+      "siteId": "26",
       "areaName": "ODF Pet Shop",
       "computedAreaM2": 77.41015625,
       "shadingCondition": "None",
@@ -210,7 +237,34 @@
       "solarIrradianceAnnualKWhM2": 1741.8772695064545
     },
     {
-      "siteId": "24",
+      "siteId": "27",
+      "areaName": "Tagbilaran Port 3",
+      "computedAreaM2": 1576.5458984375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.745999813079834,
+      "solarIrradianceAnnualKWhM2": 1733.4764317274094
+    },
+    {
+      "siteId": "28",
+      "areaName": "Tagbilaran Port 2",
+      "computedAreaM2": 706.9853515625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": null,
+      "solarIrradianceAnnualKWhM2": null
+    },
+    {
+      "siteId": "29",
+      "areaName": "Tagbilaran Port 1",
+      "computedAreaM2": 3967.2607421875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.745999813079834,
+      "solarIrradianceAnnualKWhM2": 1733.4764317274094
+    },
+    {
+      "siteId": "30",
       "areaName": "Cultural",
       "computedAreaM2": 1072.6748046875,
       "shadingCondition": "None",
@@ -219,7 +273,7 @@
       "solarIrradianceAnnualKWhM2": 1737.4942388534546
     },
     {
-      "siteId": "25",
+      "siteId": "31",
       "areaName": "Vaper's Hub",
       "computedAreaM2": 383.0966796875,
       "shadingCondition": "None",
@@ -228,7 +282,7 @@
       "solarIrradianceAnnualKWhM2": 1735.6679470539093
     },
     {
-      "siteId": "26",
+      "siteId": "32",
       "areaName": "UB",
       "computedAreaM2": 1372.31640625,
       "shadingCondition": "None",
@@ -237,7 +291,7 @@
       "solarIrradianceAnnualKWhM2": 1736.3985682725906
     },
     {
-      "siteId": "27",
+      "siteId": "33",
       "areaName": "BISU - MC",
       "computedAreaM2": 282.615234375,
       "shadingCondition": "Very High",
@@ -246,7 +300,7 @@
       "solarIrradianceAnnualKWhM2": 1741.1468224525452
     },
     {
-      "siteId": "28",
+      "siteId": "34",
       "areaName": "K of C",
       "computedAreaM2": 688.9658203125,
       "shadingCondition": "None",
@@ -255,7 +309,7 @@
       "solarIrradianceAnnualKWhM2": 1739.6857541799545
     },
     {
-      "siteId": "29",
+      "siteId": "35",
       "areaName": "Ramiro Hospital",
       "computedAreaM2": 1636.70703125,
       "shadingCondition": "None",
@@ -264,7 +318,7 @@
       "solarIrradianceAnnualKWhM2": 1743.7035613059998
     },
     {
-      "siteId": "30",
+      "siteId": "36",
       "areaName": "Galleria Luisa (front)",
       "computedAreaM2": 999.4345703125,
       "shadingCondition": "None",
@@ -273,7 +327,7 @@
       "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
-      "siteId": "31",
+      "siteId": "37",
       "areaName": "Galleria Luisa",
       "computedAreaM2": 4479.2529296875,
       "shadingCondition": "None",
@@ -282,16 +336,16 @@
       "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
-      "siteId": "32",
-      "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
-      "computedAreaM2": 143.0537109375,
+      "siteId": "38",
+      "areaName": "Alva's",
+      "computedAreaM2": 228.8916015625,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.791999816894531,
       "solarIrradianceAnnualKWhM2": 1750.2779331207275
     },
     {
-      "siteId": "33",
+      "siteId": "39",
       "areaName": "Cathedral 1",
       "computedAreaM2": 1914.1181640625,
       "shadingCondition": "None",
@@ -300,16 +354,16 @@
       "solarIrradianceAnnualKWhM2": 1751.7390013933182
     },
     {
-      "siteId": "34",
-      "areaName": "Panglao Bus Terminal_Cogon",
-      "computedAreaM2": 1417.2001953125,
+      "siteId": "40",
+      "areaName": "CPG East Ave. Parking",
+      "computedAreaM2": 1503.5458984375,
       "shadingCondition": "None",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.796999931335449,
       "solarIrradianceAnnualKWhM2": 1752.1042249202728
     },
     {
-      "siteId": "35",
+      "siteId": "41",
       "areaName": "Cathedral 2",
       "computedAreaM2": 906.8173828125,
       "shadingCondition": "None",
@@ -318,7 +372,7 @@
       "solarIrradianceAnnualKWhM2": 1751.7390013933182
     },
     {
-      "siteId": "36",
+      "siteId": "42",
       "areaName": "ACE Area",
       "computedAreaM2": 770.1826171875,
       "shadingCondition": "None",
@@ -435,9 +489,9 @@
     {
       "siteId": "14",
       "areaScore": 5.0,
-      "shadingScore": 1.0,
+      "shadingScore": 5.0,
       "orientationScore": 5.0,
-      "suitabilityRating": 3.6666666666666665,
+      "suitabilityRating": 5.0,
       "suitable": "YES"
     },
     {
@@ -467,9 +521,9 @@
     {
       "siteId": "18",
       "areaScore": 5.0,
-      "shadingScore": 5.0,
+      "shadingScore": 1.0,
       "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
+      "suitabilityRating": 3.6666666666666665,
       "suitable": "YES"
     },
     {
@@ -539,10 +593,10 @@
     {
       "siteId": "27",
       "areaScore": 5.0,
-      "shadingScore": 1.0,
-      "orientationScore": 1.0,
-      "suitabilityRating": 2.3333333333333335,
-      "suitable": "NO"
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
     },
     {
       "siteId": "28",
@@ -587,10 +641,10 @@
     {
       "siteId": "33",
       "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": "YES"
+      "shadingScore": 1.0,
+      "orientationScore": 1.0,
+      "suitabilityRating": 2.3333333333333335,
+      "suitable": "NO"
     },
     {
       "siteId": "34",
@@ -610,6 +664,54 @@
     },
     {
       "siteId": "36",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "37",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "38",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "39",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "40",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "41",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": "YES"
+    },
+    {
+      "siteId": "42",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -675,23 +777,23 @@
       "description": "",
       "points": [
         {
-          "lat": 9.675254771863802,
-          "lng": 123.85513428268517
+          "lat": 9.675263497005215,
+          "lng": 123.85513306644583
         },
         {
           "lat": 9.675198446613262,
           "lng": 123.8551420987288
         },
         {
-          "lat": 9.67522966848355,
-          "lng": 123.85541200326419
+          "lat": 9.675229291364058,
+          "lng": 123.85540872534435
         },
         {
-          "lat": 9.675284982714032,
-          "lng": 123.85539739179202
+          "lat": 9.67529271398481,
+          "lng": 123.85540075123687
         }
       ],
-      "computedAreaM2": 185.93359375,
+      "computedAreaM2": 212.7587890625,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -703,33 +805,45 @@
       "solarIrradianceAnnualKWhM2": 1688.5508029460907
     },
     {
-      "id": "1787656926217",
+      "id": "1791088669224",
       "parkingSpaceId": "3",
-      "areaName": "Toyota - Taloto Branch",
+      "areaName": "Toyota1",
       "description": "",
       "points": [
         {
-          "lat": 9.672471218396742,
-          "lng": 123.85970714579094
+          "lat": 9.672546310194344,
+          "lng": 123.85970885758724
         },
         {
-          "lat": 9.672203992241478,
-          "lng": 123.8596656517888
+          "lat": 9.672540720950085,
+          "lng": 123.85986174522361
         },
         {
-          "lat": 9.6722010565655,
-          "lng": 123.85972354079658
+          "lat": 9.672182413128175,
+          "lng": 123.85980643210728
         },
         {
-          "lat": 9.672198397181777,
-          "lng": 123.85979994685694
+          "lat": 9.672180232170343,
+          "lng": 123.85992147344243
         },
         {
-          "lat": 9.672508869177852,
-          "lng": 123.85986646307764
+          "lat": 9.67209639822948,
+          "lng": 123.85991680156555
+        },
+        {
+          "lat": 9.672099985314977,
+          "lng": 123.85981683363907
+        },
+        {
+          "lat": 9.672131939943906,
+          "lng": 123.85982089921777
+        },
+        {
+          "lat": 9.672144870746168,
+          "lng": 123.85963911760292
         }
       ],
-      "computedAreaM2": 507.8720703125,
+      "computedAreaM2": 890.64453125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -743,35 +857,27 @@
     {
       "id": "1790331170359",
       "parkingSpaceId": "4",
-      "areaName": "in front of Toyota - Taloto Branch",
+      "areaName": "Toyota 2",
       "description": "",
       "points": [
         {
-          "lat": 9.672508956864206,
-          "lng": 123.85958645738748
+          "lat": 9.672274734193246,
+          "lng": 123.85954831531572
         },
         {
-          "lat": 9.672161159623021,
-          "lng": 123.85952939636388
+          "lat": 9.672118858758358,
+          "lng": 123.85952078253098
         },
         {
-          "lat": 9.672197815977416,
-          "lng": 123.85934904987852
+          "lat": 9.67216012641817,
+          "lng": 123.85932295984789
         },
         {
-          "lat": 9.672319627835163,
-          "lng": 123.8593623599427
-        },
-        {
-          "lat": 9.672284059888593,
-          "lng": 123.85950582693648
-        },
-        {
-          "lat": 9.672516677043667,
-          "lng": 123.85954717015771
+          "lat": 9.672326221842756,
+          "lng": 123.85933719620506
         }
       ],
-      "computedAreaM2": 390.4130859375,
+      "computedAreaM2": 413.9453125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -783,8 +889,62 @@
       "solarIrradianceAnnualKWhM2": 1698.4125348329544
     },
     {
-      "id": "1791013071285",
+      "id": "1791088416931",
       "parkingSpaceId": "5",
+      "areaName": "Christian Gospel Church",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.671487806111571,
+          "lng": 123.87029529597795
+        },
+        {
+          "lat": 9.671219875154575,
+          "lng": 123.87033256780296
+        },
+        {
+          "lat": 9.671089551399906,
+          "lng": 123.87007554975915
+        },
+        {
+          "lat": 9.671131369958395,
+          "lng": 123.87001967335404
+        },
+        {
+          "lat": 9.671236982669619,
+          "lng": 123.86992776516381
+        },
+        {
+          "lat": 9.671556278078546,
+          "lng": 123.86974528725487
+        },
+        {
+          "lat": 9.671602222159324,
+          "lng": 123.86974541324219
+        },
+        {
+          "lat": 9.671630836677252,
+          "lng": 123.86992271293593
+        },
+        {
+          "lat": 9.671548647374653,
+          "lng": 123.87021490925096
+        }
+      ],
+      "computedAreaM2": 2459.2158203125,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.664999961853027,
+      "solarIrradianceAnnualKWhM2": 1703.8912360668182
+    },
+    {
+      "id": "1791013071285",
+      "parkingSpaceId": "6",
       "areaName": "VDT 2",
       "description": "",
       "points": [
@@ -822,7 +982,7 @@
     },
     {
       "id": "1790104662522",
-      "parkingSpaceId": "6",
+      "parkingSpaceId": "7",
       "areaName": "St. Peter Chapels - Taloto",
       "description": "",
       "points": [
@@ -864,7 +1024,7 @@
     },
     {
       "id": "1791012795222",
-      "parkingSpaceId": "7",
+      "parkingSpaceId": "8",
       "areaName": "VDT 1",
       "description": "",
       "points": [
@@ -913,8 +1073,74 @@
       "solarIrradianceAnnualKWhM2": 1702.064944267273
     },
     {
+      "id": "1791088192356",
+      "parkingSpaceId": "9",
+      "areaName": "Holy Spirit 2",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.667101680435358,
+          "lng": 123.86699842874731
+        },
+        {
+          "lat": 9.667032631820817,
+          "lng": 123.86702006423846
+        },
+        {
+          "lat": 9.6669965232839,
+          "lng": 123.86680492600068
+        },
+        {
+          "lat": 9.666699888835556,
+          "lng": 123.86605026232294
+        },
+        {
+          "lat": 9.66665034611649,
+          "lng": 123.86598857446211
+        },
+        {
+          "lat": 9.666505885131109,
+          "lng": 123.86597902065499
+        },
+        {
+          "lat": 9.666471393062876,
+          "lng": 123.8658605794884
+        },
+        {
+          "lat": 9.666412042471823,
+          "lng": 123.86575721198615
+        },
+        {
+          "lat": 9.666339124589195,
+          "lng": 123.86567399084446
+        },
+        {
+          "lat": 9.666324856408549,
+          "lng": 123.86563619949682
+        },
+        {
+          "lat": 9.666509408420026,
+          "lng": 123.8656204401842
+        },
+        {
+          "lat": 9.666680813788982,
+          "lng": 123.86592239254875
+        }
+      ],
+      "computedAreaM2": 1250.115234375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.683000087738037,
+      "solarIrradianceAnnualKWhM2": 1710.465782046318
+    },
+    {
       "id": "1790103681194",
-      "parkingSpaceId": "8",
+      "parkingSpaceId": "10",
       "areaName": "Tool Haven",
       "description": "",
       "points": [
@@ -947,137 +1173,29 @@
       "solarIrradianceAnnualKWhM2": 1706.4479749202728
     },
     {
-      "id": "1787656038606",
-      "parkingSpaceId": "9",
-      "areaName": "Front of Holy Spirit School of Tagbilaran",
+      "id": "1791087724374",
+      "parkingSpaceId": "11",
+      "areaName": "Holy Spirit 1",
       "description": "",
       "points": [
         {
-          "lat": 9.666416895269183,
-          "lng": 123.86555863346167
+          "lat": 9.66746093142393,
+          "lng": 123.86550295702673
         },
         {
-          "lat": 9.666377615004036,
-          "lng": 123.8655821757629
+          "lat": 9.665762542525005,
+          "lng": 123.86537285792863
         },
         {
-          "lat": 9.666363742710985,
-          "lng": 123.86558990033767
+          "lat": 9.665739202695253,
+          "lng": 123.86548909178254
         },
         {
-          "lat": 9.666352807988366,
-          "lng": 123.86558837037803
-        },
-        {
-          "lat": 9.666338670152445,
-          "lng": 123.86555596011728
-        },
-        {
-          "lat": 9.6663272297399,
-          "lng": 123.86555111055338
-        },
-        {
-          "lat": 9.666310483067504,
-          "lng": 123.8655637954023
-        },
-        {
-          "lat": 9.666272567442354,
-          "lng": 123.8655677622306
-        },
-        {
-          "lat": 9.66624144185032,
-          "lng": 123.86555171497392
-        },
-        {
-          "lat": 9.666210538857662,
-          "lng": 123.86558217429499
-        },
-        {
-          "lat": 9.666247201653686,
-          "lng": 123.86559995425002
-        },
-        {
-          "lat": 9.666305080021083,
-          "lng": 123.86564277125001
-        },
-        {
-          "lat": 9.666311173502988,
-          "lng": 123.86565526549361
-        },
-        {
-          "lat": 9.66632053819714,
-          "lng": 123.86564462485742
-        },
-        {
-          "lat": 9.666337494518993,
-          "lng": 123.86565736599046
-        },
-        {
-          "lat": 9.666333609468651,
-          "lng": 123.8656797523223
-        },
-        {
-          "lat": 9.666365411880063,
-          "lng": 123.86569725922755
-        },
-        {
-          "lat": 9.666385947633815,
-          "lng": 123.86571742750758
-        },
-        {
-          "lat": 9.666402485161042,
-          "lng": 123.86574151467049
-        },
-        {
-          "lat": 9.66641352049812,
-          "lng": 123.86576563315444
-        },
-        {
-          "lat": 9.666423113973853,
-          "lng": 123.86579808439161
-        },
-        {
-          "lat": 9.666439789216197,
-          "lng": 123.86582678180493
-        },
-        {
-          "lat": 9.666449328776128,
-          "lng": 123.86584960935446
-        },
-        {
-          "lat": 9.666470087143008,
-          "lng": 123.86586157140279
-        },
-        {
-          "lat": 9.666498807093618,
-          "lng": 123.86586049495733
-        },
-        {
-          "lat": 9.666515978720433,
-          "lng": 123.8657520032753
-        },
-        {
-          "lat": 9.66647868750164,
-          "lng": 123.86576849812636
-        },
-        {
-          "lat": 9.666461666670124,
-          "lng": 123.86574000353176
-        },
-        {
-          "lat": 9.666449580260778,
-          "lng": 123.86571178661995
-        },
-        {
-          "lat": 9.666451326169186,
-          "lng": 123.8656755755264
-        },
-        {
-          "lat": 9.666481298973528,
-          "lng": 123.86567857921085
+          "lat": 9.667453677398646,
+          "lng": 123.86561872350767
         }
       ],
-      "computedAreaM2": 401.5361328125,
+      "computedAreaM2": 2442.4189453125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -1090,28 +1208,28 @@
     },
     {
       "id": "1790103272118",
-      "parkingSpaceId": "10",
+      "parkingSpaceId": "12",
       "areaName": "Wrenley's",
       "description": "",
       "points": [
         {
-          "lat": 9.663519680026326,
-          "lng": 123.85794618669782
+          "lat": 9.663509982573112,
+          "lng": 123.85796155994278
         },
         {
-          "lat": 9.663562798538464,
-          "lng": 123.85787381828578
+          "lat": 9.663560218093716,
+          "lng": 123.85787106498853
         },
         {
-          "lat": 9.663728724195284,
-          "lng": 123.85796946110108
+          "lat": 9.663742159383608,
+          "lng": 123.85796666260437
         },
         {
-          "lat": 9.663710950562654,
-          "lng": 123.85801183461516
+          "lat": 9.663714972565797,
+          "lng": 123.85804766591009
         }
       ],
-      "computedAreaM2": 155.16796875,
+      "computedAreaM2": 245.626953125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -1124,7 +1242,7 @@
     },
     {
       "id": "1787654893890",
-      "parkingSpaceId": "11",
+      "parkingSpaceId": "13",
       "areaName": "City Hardware - J.A. Clarin Street",
       "description": "",
       "points": [
@@ -1174,7 +1292,7 @@
     },
     {
       "id": "1791009888110",
-      "parkingSpaceId": "12",
+      "parkingSpaceId": "14",
       "areaName": "WISDOM",
       "description": "",
       "points": [
@@ -1216,7 +1334,7 @@
     },
     {
       "id": "1790926885900",
-      "parkingSpaceId": "13",
+      "parkingSpaceId": "15",
       "areaName": "Bohol Provincial Capitol",
       "description": "",
       "points": [
@@ -1269,8 +1387,112 @@
       "solarIrradianceAnnualKWhM2": 1722.153805732727
     },
     {
+      "id": "1791089367787",
+      "parkingSpaceId": "16",
+      "areaName": "Cogon Comercial CPG",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.65798293001756,
+          "lng": 123.85589296838063
+        },
+        {
+          "lat": 9.657775945706907,
+          "lng": 123.85583443133903
+        },
+        {
+          "lat": 9.657748308377931,
+          "lng": 123.8559207307736
+        },
+        {
+          "lat": 9.657967737944775,
+          "lng": 123.85597422731487
+        }
+      ],
+      "computedAreaM2": 232.8701171875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.708000183105469,
+      "solarIrradianceAnnualKWhM2": 1719.5970668792725
+    },
+    {
+      "id": "1791086534995",
+      "parkingSpaceId": "17",
+      "areaName": "ICM 3",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.656614388023936,
+          "lng": 123.87039841894548
+        },
+        {
+          "lat": 9.656384382915274,
+          "lng": 123.87039085025017
+        },
+        {
+          "lat": 9.656540052431207,
+          "lng": 123.86971688191745
+        },
+        {
+          "lat": 9.65670932229568,
+          "lng": 123.8697506069271
+        },
+        {
+          "lat": 9.656794887465267,
+          "lng": 123.86937292151941
+        },
+        {
+          "lat": 9.656857922396746,
+          "lng": 123.86939485271529
+        },
+        {
+          "lat": 9.656903494023412,
+          "lng": 123.86922504605495
+        },
+        {
+          "lat": 9.656800860053783,
+          "lng": 123.86920001217077
+        },
+        {
+          "lat": 9.656877639709368,
+          "lng": 123.86893364605241
+        },
+        {
+          "lat": 9.657801683497809,
+          "lng": 123.86930978238087
+        },
+        {
+          "lat": 9.657788766588846,
+          "lng": 123.86942577634846
+        },
+        {
+          "lat": 9.656560288095045,
+          "lng": 123.87027221219196
+        },
+        {
+          "lat": 9.656668739947323,
+          "lng": 123.87033317286644
+        }
+      ],
+      "computedAreaM2": 10152.1337890625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.736000061035156,
+      "solarIrradianceAnnualKWhM2": 1729.8240222930908
+    },
+    {
       "id": "1787651884317",
-      "parkingSpaceId": "14",
+      "parkingSpaceId": "18",
       "areaName": "IBT Front",
       "description": "",
       "points": [
@@ -1304,7 +1526,7 @@
     },
     {
       "id": "1790928681621",
-      "parkingSpaceId": "15",
+      "parkingSpaceId": "19",
       "areaName": "ICM 1",
       "description": "",
       "points": [
@@ -1338,7 +1560,7 @@
     },
     {
       "id": "1790931061688",
-      "parkingSpaceId": "16",
+      "parkingSpaceId": "20",
       "areaName": "Dao Public Market",
       "description": "",
       "points": [
@@ -1372,7 +1594,7 @@
     },
     {
       "id": "1790929811351",
-      "parkingSpaceId": "17",
+      "parkingSpaceId": "21",
       "areaName": "ICM 3",
       "description": "",
       "points": [
@@ -1422,7 +1644,7 @@
     },
     {
       "id": "1790930917247",
-      "parkingSpaceId": "18",
+      "parkingSpaceId": "22",
       "areaName": "Dao Night Market",
       "description": "",
       "points": [
@@ -1468,7 +1690,7 @@
     },
     {
       "id": "1791011449425",
-      "parkingSpaceId": "19",
+      "parkingSpaceId": "23",
       "areaName": "Dao Public Market 2",
       "description": "",
       "points": [
@@ -1509,54 +1731,8 @@
       "solarIrradianceAnnualKWhM2": 1730.9196928739548
     },
     {
-      "id": "1790929249723",
-      "parkingSpaceId": "20",
-      "areaName": "ICM 2",
-      "description": "",
-      "points": [
-        {
-          "lat": 9.654891583302634,
-          "lng": 123.86958285023789
-        },
-        {
-          "lat": 9.654843474085707,
-          "lng": 123.8695817958578
-        },
-        {
-          "lat": 9.654832899824282,
-          "lng": 123.8698658188481
-        },
-        {
-          "lat": 9.654832618000698,
-          "lng": 123.87018145100107
-        },
-        {
-          "lat": 9.654867358656809,
-          "lng": 123.87018187700296
-        },
-        {
-          "lat": 9.654874142761292,
-          "lng": 123.87013198998491
-        },
-        {
-          "lat": 9.654888888012978,
-          "lng": 123.87009834195011
-        }
-      ],
-      "computedAreaM2": 386.68359375,
-      "shadingCondition": "None",
-      "orientation": "South",
-      "areaScore": 5.0,
-      "shadingScore": 5.0,
-      "orientationScore": 5.0,
-      "suitabilityRating": 5.0,
-      "suitable": true,
-      "solarIrradianceDailyKWhM2": 4.748000144958496,
-      "solarIrradianceAnnualKWhM2": 1734.2070529460907
-    },
-    {
       "id": "1790931952812",
-      "parkingSpaceId": "21",
+      "parkingSpaceId": "24",
       "areaName": "City Hall",
       "description": "",
       "points": [
@@ -1618,13 +1794,13 @@
     },
     {
       "id": "1790101919937",
-      "parkingSpaceId": "22",
+      "parkingSpaceId": "25",
       "areaName": "Blue Ocean Food Park & KTV Bar",
       "description": "",
       "points": [
         {
-          "lat": 9.652978828500288,
-          "lng": 123.84964300788754
+          "lat": 9.652980259516365,
+          "lng": 123.84964712895426
         },
         {
           "lat": 9.653046614274004,
@@ -1667,11 +1843,11 @@
           "lng": 123.84961921475633
         },
         {
-          "lat": 9.653238796574183,
-          "lng": 123.84955466415721
+          "lat": 9.653240332862469,
+          "lng": 123.84955768766957
         }
       ],
-      "computedAreaM2": 670.4384765625,
+      "computedAreaM2": 657.20703125,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -1684,7 +1860,7 @@
     },
     {
       "id": "1790101223510",
-      "parkingSpaceId": "23",
+      "parkingSpaceId": "26",
       "areaName": "ODF Pet Shop",
       "description": "",
       "points": [
@@ -1717,8 +1893,126 @@
       "solarIrradianceAnnualKWhM2": 1741.8772695064545
     },
     {
+      "id": "1791091850250",
+      "parkingSpaceId": "27",
+      "areaName": "Tagbilaran Port 3",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.649165271837676,
+          "lng": 123.84861177626283
+        },
+        {
+          "lat": 9.648925925577911,
+          "lng": 123.84862230172457
+        },
+        {
+          "lat": 9.64889705600916,
+          "lng": 123.84818034477966
+        },
+        {
+          "lat": 9.64922330712702,
+          "lng": 123.84815962129522
+        },
+        {
+          "lat": 9.649240696139437,
+          "lng": 123.84840823009215
+        },
+        {
+          "lat": 9.649154478803972,
+          "lng": 123.84842088962264
+        }
+      ],
+      "computedAreaM2": 1576.5458984375,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.745999813079834,
+      "solarIrradianceAnnualKWhM2": 1733.4764317274094
+    },
+    {
+      "id": "1791092133785",
+      "parkingSpaceId": "28",
+      "areaName": "Tagbilaran Port 2",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.648873471540785,
+          "lng": 123.84716441394316
+        },
+        {
+          "lat": 9.648733834404908,
+          "lng": 123.84717513442916
+        },
+        {
+          "lat": 9.648754863494053,
+          "lng": 123.84758402286484
+        },
+        {
+          "lat": 9.64889642159762,
+          "lng": 123.84757575471313
+        }
+      ],
+      "computedAreaM2": 706.9853515625,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": null,
+      "solarIrradianceAnnualKWhM2": null
+    },
+    {
+      "id": "1791092970360",
+      "parkingSpaceId": "29",
+      "areaName": "Tagbilaran Port 1",
+      "description": "",
+      "points": [
+        {
+          "lat": 9.648590993964032,
+          "lng": 123.84709587467745
+        },
+        {
+          "lat": 9.648484507354762,
+          "lng": 123.84710259793292
+        },
+        {
+          "lat": 9.648477940405716,
+          "lng": 123.84703198960875
+        },
+        {
+          "lat": 9.648384678697095,
+          "lng": 123.84703886712789
+        },
+        {
+          "lat": 9.648509044913364,
+          "lng": 123.8487408168072
+        },
+        {
+          "lat": 9.648695669791614,
+          "lng": 123.84873185283926
+        }
+      ],
+      "computedAreaM2": 3967.2607421875,
+      "shadingCondition": "None",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 5.0,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.745999813079834,
+      "solarIrradianceAnnualKWhM2": 1733.4764317274094
+    },
+    {
       "id": "1790100805344",
-      "parkingSpaceId": "24",
+      "parkingSpaceId": "30",
       "areaName": "Cultural",
       "description": "",
       "points": [
@@ -1788,7 +2082,7 @@
     },
     {
       "id": "1790100135420",
-      "parkingSpaceId": "25",
+      "parkingSpaceId": "31",
       "areaName": "Vaper's Hub",
       "description": "",
       "points": [
@@ -1834,7 +2128,7 @@
     },
     {
       "id": "1789896435024",
-      "parkingSpaceId": "26",
+      "parkingSpaceId": "32",
       "areaName": "UB",
       "description": "",
       "points": [
@@ -1952,7 +2246,7 @@
     },
     {
       "id": "1777605186897",
-      "parkingSpaceId": "27",
+      "parkingSpaceId": "33",
       "areaName": "BISU - MC",
       "description": "asdfdz",
       "points": [
@@ -1994,7 +2288,7 @@
     },
     {
       "id": "1789895923626",
-      "parkingSpaceId": "28",
+      "parkingSpaceId": "34",
       "areaName": "K of C",
       "description": "",
       "points": [
@@ -2028,7 +2322,7 @@
     },
     {
       "id": "1789895702718",
-      "parkingSpaceId": "29",
+      "parkingSpaceId": "35",
       "areaName": "Ramiro Hospital",
       "description": "",
       "points": [
@@ -2114,7 +2408,7 @@
     },
     {
       "id": "1791013659997",
-      "parkingSpaceId": "30",
+      "parkingSpaceId": "36",
       "areaName": "Galleria Luisa (front)",
       "description": "",
       "points": [
@@ -2160,7 +2454,7 @@
     },
     {
       "id": "1789890605650",
-      "parkingSpaceId": "31",
+      "parkingSpaceId": "37",
       "areaName": "Galleria Luisa",
       "description": "",
       "points": [
@@ -2253,29 +2547,33 @@
       "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
-      "id": "1789889560567",
-      "parkingSpaceId": "32",
-      "areaName": "J. Alaba\rTagbilaran City, Central Visayas",
+      "id": "1791087469652",
+      "parkingSpaceId": "38",
+      "areaName": "Alva's",
       "description": "",
       "points": [
         {
-          "lat": 9.640485450554651,
-          "lng": 123.87685406656367
+          "lat": 9.64047482873801,
+          "lng": 123.87687390997256
         },
         {
-          "lat": 9.640457597634807,
-          "lng": 123.87683550406383
+          "lat": 9.640240923295067,
+          "lng": 123.87705772470167
         },
         {
-          "lat": 9.640255071637704,
-          "lng": 123.87694690572343
+          "lat": 9.640209667937857,
+          "lng": 123.87697882403998
         },
         {
-          "lat": 9.640282960562088,
-          "lng": 123.87700753190173
+          "lat": 9.640288315442241,
+          "lng": 123.87691607860131
+        },
+        {
+          "lat": 9.640425629800703,
+          "lng": 123.87685884818414
         }
       ],
-      "computedAreaM2": 143.0537109375,
+      "computedAreaM2": 228.8916015625,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2288,7 +2586,7 @@
     },
     {
       "id": "1791042148443",
-      "parkingSpaceId": "33",
+      "parkingSpaceId": "39",
       "areaName": "Cathedral 1",
       "description": "",
       "points": [
@@ -2370,17 +2668,17 @@
     },
     {
       "id": "1789888781304",
-      "parkingSpaceId": "34",
-      "areaName": "Panglao Bus Terminal_Cogon",
+      "parkingSpaceId": "40",
+      "areaName": "CPG East Ave. Parking",
       "description": "",
       "points": [
         {
-          "lat": 9.638822805166171,
-          "lng": 123.86000096184608
+          "lat": 9.638799258981612,
+          "lng": 123.86000279902684
         },
         {
-          "lat": 9.638929300538232,
-          "lng": 123.86004572065664
+          "lat": 9.638886736293632,
+          "lng": 123.86003791263849
         },
         {
           "lat": 9.639023128847796,
@@ -2395,20 +2693,20 @@
           "lng": 123.8601428974329
         },
         {
-          "lat": 9.639289921896925,
-          "lng": 123.86018145420816
+          "lat": 9.639297530072186,
+          "lng": 123.86018300646829
         },
         {
-          "lat": 9.639287704744206,
-          "lng": 123.86006323899984
+          "lat": 9.639287835253965,
+          "lng": 123.86004634503735
         },
         {
-          "lat": 9.639327616591917,
-          "lng": 123.85999318696939
+          "lat": 9.639332105936555,
+          "lng": 123.8600078625612
         },
         {
-          "lat": 9.639332811133988,
-          "lng": 123.85991929553754
+          "lat": 9.639344959496976,
+          "lng": 123.85992348076645
         },
         {
           "lat": 9.639244188050831,
@@ -2419,19 +2717,19 @@
           "lng": 123.8599064901159
         },
         {
-          "lat": 9.639083495203865,
-          "lng": 123.85987117604853
+          "lat": 9.639086757624904,
+          "lng": 123.85987338214146
         },
         {
           "lat": 9.63903844825949,
           "lng": 123.859783664037
         },
         {
-          "lat": 9.63889881716562,
-          "lng": 123.85974479889684
+          "lat": 9.638890544903324,
+          "lng": 123.85973292773497
         }
       ],
-      "computedAreaM2": 1417.2001953125,
+      "computedAreaM2": 1503.5458984375,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -2444,7 +2742,7 @@
     },
     {
       "id": "1791014832832",
-      "parkingSpaceId": "35",
+      "parkingSpaceId": "41",
       "areaName": "Cathedral 2",
       "description": "",
       "points": [
@@ -2478,7 +2776,7 @@
     },
     {
       "id": "1789887003234",
-      "parkingSpaceId": "36",
+      "parkingSpaceId": "42",
       "areaName": "ACE Area",
       "description": "",
       "points": [
