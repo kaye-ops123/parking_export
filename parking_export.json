@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-05T02:22:39.472877",
+  "generatedAt": "2026-10-05T20:45:07.598777",
   "primaryDataTable": [
     {
       "siteId": "1",
@@ -184,7 +184,7 @@
     },
     {
       "siteId": "21",
-      "areaName": "ICM 3",
+      "areaName": "ICM 2",
       "computedAreaM2": 8506.01171875,
       "shadingCondition": "None",
       "orientation": "South",
@@ -1595,7 +1595,7 @@
     {
       "id": "1790929811351",
       "parkingSpaceId": "21",
-      "areaName": "ICM 3",
+      "areaName": "ICM 2",
       "description": "",
       "points": [
         {
