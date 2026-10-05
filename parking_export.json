@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-05T20:45:07.598777",
+  "generatedAt": "2026-10-05T20:49:20.540537",
   "primaryDataTable": [
     {
       "siteId": "1",
-      "areaName": "Shang Restaurant",
-      "computedAreaM2": 294.330078125,
+      "areaName": "Shang Palace",
+      "computedAreaM2": 500.65234375,
       "shadingCondition": "None",
       "orientation": "South",
-      "solarIrradianceDailyKWhM2": 4.625,
-      "solarIrradianceAnnualKWhM2": 1689.28125
+      "solarIrradianceDailyKWhM2": 4.627999782562256,
+      "solarIrradianceAnnualKWhM2": 1690.376920580864
     },
     {
       "siteId": "2",
@@ -723,43 +723,27 @@
     {
       "id": "1787656489861",
       "parkingSpaceId": "1",
-      "areaName": "Shang Restaurant",
+      "areaName": "Shang Palace",
       "description": "",
       "points": [
         {
-          "lat": 9.675209743776195,
-          "lng": 123.85991408498157
+          "lat": 9.67520773220258,
+          "lng": 123.85989690512838
         },
         {
-          "lat": 9.675205756866397,
-          "lng": 123.85994436460949
+          "lat": 9.675189305991589,
+          "lng": 123.86004867411343
         },
         {
-          "lat": 9.675220649738748,
-          "lng": 123.85994992715649
+          "lat": 9.675481743921514,
+          "lng": 123.86009610567552
         },
         {
-          "lat": 9.675217044007757,
-          "lng": 123.86004855607506
-        },
-        {
-          "lat": 9.675408673916326,
-          "lng": 123.86007996471594
-        },
-        {
-          "lat": 9.675408207326779,
-          "lng": 123.86002114595497
-        },
-        {
-          "lat": 9.67541224644034,
-          "lng": 123.86000084063855
-        },
-        {
-          "lat": 9.675425722743922,
-          "lng": 123.85997059058475
+          "lat": 9.67550818941229,
+          "lng": 123.85998135651745
         }
       ],
-      "computedAreaM2": 294.330078125,
+      "computedAreaM2": 500.65234375,
       "shadingCondition": "None",
       "orientation": "South",
       "areaScore": 5.0,
@@ -767,8 +751,8 @@
       "orientationScore": 5.0,
       "suitabilityRating": 5.0,
       "suitable": true,
-      "solarIrradianceDailyKWhM2": 4.625,
-      "solarIrradianceAnnualKWhM2": 1689.28125
+      "solarIrradianceDailyKWhM2": 4.627999782562256,
+      "solarIrradianceAnnualKWhM2": 1690.376920580864
     },
     {
       "id": "1790105016766",
