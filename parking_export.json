@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T03:18:36.538380",
+  "generatedAt": "2026-10-15T02:44:29.492327",
   "primaryDataTable": [
     {
       "siteId": "1",
@@ -13,7 +13,7 @@
     },
     {
       "siteId": "2",
-      "areaName": "Imamaculate Heart of Mary Seminary",
+      "areaName": "Immaculate Heart of Mary Seminary",
       "computedAreaM2": 212.7587890625,
       "shadingCondition": "High",
       "orientation": "South",
@@ -230,7 +230,7 @@
     {
       "siteId": "26",
       "areaName": "ODF Pet Shop",
-      "computedAreaM2": 77.41015625,
+      "computedAreaM2": 190.2451171875,
       "shadingCondition": "Low",
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.769000053405762,
@@ -757,7 +757,7 @@
     {
       "id": "1790105016766",
       "parkingSpaceId": "2",
-      "areaName": "Imamaculate Heart of Mary Seminary",
+      "areaName": "Immaculate Heart of Mary Seminary",
       "description": "",
       "points": [
         {
@@ -1849,23 +1849,23 @@
       "description": "",
       "points": [
         {
-          "lat": 9.651001750277773,
-          "lng": 123.87578868585906
+          "lat": 9.650974113096193,
+          "lng": 123.87576385029021
         },
         {
-          "lat": 9.650813449540442,
-          "lng": 123.87564607815958
+          "lat": 9.650641163935889,
+          "lng": 123.87550293044522
         },
         {
-          "lat": 9.650798180587053,
-          "lng": 123.87566918757075
+          "lat": 9.650618442420722,
+          "lng": 123.87553888247959
         },
         {
-          "lat": 9.650987434945261,
-          "lng": 123.8758104625291
+          "lat": 9.650958940636471,
+          "lng": 123.87579149671119
         }
       ],
-      "computedAreaM2": 77.41015625,
+      "computedAreaM2": 190.2451171875,
       "shadingCondition": "Low",
       "orientation": "South",
       "areaScore": 5.0,
