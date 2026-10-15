@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T02:44:29.492327",
+  "generatedAt": "2026-10-16T01:25:17.388182",
   "primaryDataTable": [
     {
       "siteId": "1",
-      "areaName": "Shang Palace",
+      "areaName": "Shang Palace Seafood Restaurant",
       "computedAreaM2": 500.65234375,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -49,7 +49,7 @@
     },
     {
       "siteId": "6",
-      "areaName": "VDT 2",
+      "areaName": "Victoriano Degamo Tirol Advanced Learning Center 2",
       "computedAreaM2": 456.181640625,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -67,7 +67,7 @@
     },
     {
       "siteId": "8",
-      "areaName": "VDT 1",
+      "areaName": "Victoriano Degamo Tirol Advanced Learning Center 1",
       "computedAreaM2": 2366.5087890625,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -76,7 +76,7 @@
     },
     {
       "siteId": "9",
-      "areaName": "Holy Spirit 2",
+      "areaName": "Holy Spirit School of Tagbilaran, Inc. 2",
       "computedAreaM2": 1250.1494140625,
       "shadingCondition": "High",
       "orientation": "South",
@@ -94,7 +94,7 @@
     },
     {
       "siteId": "11",
-      "areaName": "Holy Spirit 1",
+      "areaName": "Holy Spirit School of Tagbilaran, Inc. 1",
       "computedAreaM2": 2442.3935546875,
       "shadingCondition": "High",
       "orientation": "South",
@@ -103,7 +103,7 @@
     },
     {
       "siteId": "12",
-      "areaName": "Wrenley's",
+      "areaName": "Wrenleys Motor Plaza",
       "computedAreaM2": 245.6875,
       "shadingCondition": "Very Low",
       "orientation": "South",
@@ -112,7 +112,7 @@
     },
     {
       "siteId": "13",
-      "areaName": "City Hardware - J.A. Clarin Street",
+      "areaName": "City Hardware - J.A. Clarin Street Branch",
       "computedAreaM2": 499.296875,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -121,7 +121,7 @@
     },
     {
       "siteId": "14",
-      "areaName": "WISDOM",
+      "areaName": "Bohol Wisdom School",
       "computedAreaM2": 1759.4697265625,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -139,7 +139,7 @@
     },
     {
       "siteId": "16",
-      "areaName": "Cogon Commercial CPG",
+      "areaName": "Cogon Commercial - CPG Branch",
       "computedAreaM2": 232.8671875,
       "shadingCondition": "Moderate",
       "orientation": "South",
@@ -157,7 +157,7 @@
     },
     {
       "siteId": "18",
-      "areaName": "IBT Front",
+      "areaName": "Intergrated Bus Terminal (front)",
       "computedAreaM2": 977.3740234375,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -211,7 +211,7 @@
     },
     {
       "siteId": "24",
-      "areaName": "City Hall",
+      "areaName": "Tagbilaran City Hall",
       "computedAreaM2": 2936.2470703125,
       "shadingCondition": "Moderate",
       "orientation": "South",
@@ -265,7 +265,7 @@
     },
     {
       "siteId": "30",
-      "areaName": "Cultural",
+      "areaName": "Bohol Cultural Center Parking Lot",
       "computedAreaM2": 1072.6748046875,
       "shadingCondition": "Moderate",
       "orientation": "South",
@@ -283,7 +283,7 @@
     },
     {
       "siteId": "32",
-      "areaName": "UB",
+      "areaName": "University of Bohol Car Park",
       "computedAreaM2": 1372.3330078125,
       "shadingCondition": "High",
       "orientation": "South",
@@ -337,7 +337,7 @@
     },
     {
       "siteId": "38",
-      "areaName": "Alva's",
+      "areaName": "Alva's Alva's Chicharon and Fried Chicken - J. Alaba Street Branch",
       "computedAreaM2": 228.8916015625,
       "shadingCondition": "Moderate",
       "orientation": "South",
@@ -346,7 +346,7 @@
     },
     {
       "siteId": "39",
-      "areaName": "Cathedral 1",
+      "areaName": "St. Joseph the Worker Cathedral 1",
       "computedAreaM2": 1914.1181640625,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -364,7 +364,7 @@
     },
     {
       "siteId": "41",
-      "areaName": "Cathedral 2",
+      "areaName": "St. Joseph the Worker Cathedral 2",
       "computedAreaM2": 906.8173828125,
       "shadingCondition": "Low",
       "orientation": "South",
@@ -373,7 +373,7 @@
     },
     {
       "siteId": "42",
-      "areaName": "ACE",
+      "areaName": "ACE Medical Center",
       "computedAreaM2": 2213.046875,
       "shadingCondition": "Moderate",
       "orientation": "South",
@@ -723,7 +723,7 @@
     {
       "id": "1787656489861",
       "parkingSpaceId": "1",
-      "areaName": "Shang Palace",
+      "areaName": "Shang Palace Seafood Restaurant",
       "description": "",
       "points": [
         {
@@ -929,7 +929,7 @@
     {
       "id": "1791013071285",
       "parkingSpaceId": "6",
-      "areaName": "VDT 2",
+      "areaName": "Victoriano Degamo Tirol Advanced Learning Center 2",
       "description": "",
       "points": [
         {
@@ -1009,7 +1009,7 @@
     {
       "id": "1791012795222",
       "parkingSpaceId": "8",
-      "areaName": "VDT 1",
+      "areaName": "Victoriano Degamo Tirol Advanced Learning Center 1",
       "description": "",
       "points": [
         {
@@ -1059,7 +1059,7 @@
     {
       "id": "1791088192356",
       "parkingSpaceId": "9",
-      "areaName": "Holy Spirit 2",
+      "areaName": "Holy Spirit School of Tagbilaran, Inc. 2",
       "description": "",
       "points": [
         {
@@ -1159,7 +1159,7 @@
     {
       "id": "1791087724374",
       "parkingSpaceId": "11",
-      "areaName": "Holy Spirit 1",
+      "areaName": "Holy Spirit School of Tagbilaran, Inc. 1",
       "description": "",
       "points": [
         {
@@ -1193,7 +1193,7 @@
     {
       "id": "1790103272118",
       "parkingSpaceId": "12",
-      "areaName": "Wrenley's",
+      "areaName": "Wrenleys Motor Plaza",
       "description": "",
       "points": [
         {
@@ -1227,7 +1227,7 @@
     {
       "id": "1787654893890",
       "parkingSpaceId": "13",
-      "areaName": "City Hardware - J.A. Clarin Street",
+      "areaName": "City Hardware - J.A. Clarin Street Branch",
       "description": "",
       "points": [
         {
@@ -1277,7 +1277,7 @@
     {
       "id": "1791009888110",
       "parkingSpaceId": "14",
-      "areaName": "WISDOM",
+      "areaName": "Bohol Wisdom School",
       "description": "",
       "points": [
         {
@@ -1373,7 +1373,7 @@
     {
       "id": "1791306395802",
       "parkingSpaceId": "16",
-      "areaName": "Cogon Commercial CPG",
+      "areaName": "Cogon Commercial - CPG Branch",
       "description": "",
       "points": [
         {
@@ -1477,7 +1477,7 @@
     {
       "id": "1787651884317",
       "parkingSpaceId": "18",
-      "areaName": "IBT Front",
+      "areaName": "Intergrated Bus Terminal (front)",
       "description": "",
       "points": [
         {
@@ -1717,7 +1717,7 @@
     {
       "id": "1790931952812",
       "parkingSpaceId": "24",
-      "areaName": "City Hall",
+      "areaName": "Tagbilaran City Hall",
       "description": "",
       "points": [
         {
@@ -1997,7 +1997,7 @@
     {
       "id": "1790100805344",
       "parkingSpaceId": "30",
-      "areaName": "Cultural",
+      "areaName": "Bohol Cultural Center Parking Lot",
       "description": "",
       "points": [
         {
@@ -2113,7 +2113,7 @@
     {
       "id": "1789896435024",
       "parkingSpaceId": "32",
-      "areaName": "UB",
+      "areaName": "University of Bohol Car Park",
       "description": "",
       "points": [
         {
@@ -2533,7 +2533,7 @@
     {
       "id": "1791087469652",
       "parkingSpaceId": "38",
-      "areaName": "Alva's",
+      "areaName": "Alva's Alva's Chicharon and Fried Chicken - J. Alaba Street Branch",
       "description": "",
       "points": [
         {
@@ -2571,7 +2571,7 @@
     {
       "id": "1791042148443",
       "parkingSpaceId": "39",
-      "areaName": "Cathedral 1",
+      "areaName": "St. Joseph the Worker Cathedral 1",
       "description": "",
       "points": [
         {
@@ -2727,7 +2727,7 @@
     {
       "id": "1791014832832",
       "parkingSpaceId": "41",
-      "areaName": "Cathedral 2",
+      "areaName": "St. Joseph the Worker Cathedral 2",
       "description": "",
       "points": [
         {
@@ -2761,7 +2761,7 @@
     {
       "id": "1791207262604",
       "parkingSpaceId": "42",
-      "areaName": "ACE",
+      "areaName": "ACE Medical Center",
       "description": "",
       "points": [
         {
