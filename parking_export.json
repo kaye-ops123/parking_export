@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T21:46:56.841976",
+  "generatedAt": "2026-10-23T10:18:16.388970",
   "primaryDataTable": [
     {
       "siteId": "1",
@@ -328,7 +328,7 @@
       "computedAreaM2": 282.658203125,
       "usablePvAreaM2": 76.88,
       "shadingCondition": "High",
-      "orientation": "North",
+      "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.767000198364258,
       "solarIrradianceAnnualKWhM2": 1741.1468224525452
     },
@@ -844,13 +844,13 @@
       "siteId": "33",
       "areaScore": 5.0,
       "shadingScore": 2.0,
-      "orientationScore": 1.0,
+      "orientationScore": 5.0,
       "normalizedAreaScore": 0.0,
       "normalizedShadingScore": 0.0,
-      "normalizedOrientationScore": 0.0,
+      "normalizedOrientationScore": 1.0,
       "normalizedGhiScore": 0.7700545940887428,
-      "suitabilityRating": 1.7700545940887427,
-      "suitabilityClass": "Low Suitability",
+      "suitabilityRating": 2.7700545940887427,
+      "suitabilityClass": "Moderately Suitable",
       "suitable": "NO"
     },
     {
@@ -2705,20 +2705,20 @@
       ],
       "computedAreaM2": 282.658203125,
       "shadingCondition": "High",
-      "orientation": "North",
+      "orientation": "South",
       "areaScore": 5.0,
       "shadingScore": 2.0,
-      "orientationScore": 1.0,
-      "suitabilityRating": 1.7700545940887427,
+      "orientationScore": 5.0,
+      "suitabilityRating": 2.7700545940887427,
       "suitable": false,
       "solarIrradianceDailyKWhM2": 4.767000198364258,
       "solarIrradianceAnnualKWhM2": 1741.1468224525452,
       "usablePvAreaM2": 76.88,
       "normalizedAreaScore": 0.0,
       "normalizedShadingScore": 0.0,
-      "normalizedOrientationScore": 0.0,
+      "normalizedOrientationScore": 1.0,
       "normalizedGhiScore": 0.7700545940887428,
-      "suitabilityClass": "Low Suitability"
+      "suitabilityClass": "Moderately Suitable"
     },
     {
       "id": "1791136546627",
