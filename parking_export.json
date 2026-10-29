@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-29T01:00:07.926286",
+  "generatedAt": "2026-10-29T11:58:55.793402",
   "primaryDataTable": [
     {
       "siteId": "1",
@@ -264,6 +264,16 @@
     },
     {
       "siteId": "27",
+      "areaName": "ghfkjk",
+      "computedAreaM2": 1129.4375,
+      "usablePvAreaM2": null,
+      "shadingCondition": "Very Low",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.739999771118164,
+      "solarIrradianceAnnualKWhM2": 1731.2849164009094
+    },
+    {
+      "siteId": "28",
       "areaName": "Tagbilaran Port 3",
       "computedAreaM2": 1576.5458984375,
       "usablePvAreaM2": 696.61,
@@ -273,7 +283,7 @@
       "solarIrradianceAnnualKWhM2": 1733.4764317274094
     },
     {
-      "siteId": "28",
+      "siteId": "29",
       "areaName": "Tagbilaran Port 2",
       "computedAreaM2": 706.9853515625,
       "usablePvAreaM2": 444.37,
@@ -283,7 +293,7 @@
       "solarIrradianceAnnualKWhM2": 1733.4764317274094
     },
     {
-      "siteId": "29",
+      "siteId": "30",
       "areaName": "Tagbilaran Port 1",
       "computedAreaM2": 3967.2607421875,
       "usablePvAreaM2": 2145.66,
@@ -293,7 +303,7 @@
       "solarIrradianceAnnualKWhM2": 1733.4764317274094
     },
     {
-      "siteId": "30",
+      "siteId": "31",
       "areaName": "Bohol Cultural Center Parking Lot",
       "computedAreaM2": 1072.689453125,
       "usablePvAreaM2": 523.19,
@@ -303,7 +313,7 @@
       "solarIrradianceAnnualKWhM2": 1737.4942388534546
     },
     {
-      "siteId": "31",
+      "siteId": "32",
       "areaName": "Liteport (Vaper's Hub)",
       "computedAreaM2": 383.138671875,
       "usablePvAreaM2": 213.3,
@@ -313,7 +323,7 @@
       "solarIrradianceAnnualKWhM2": 1735.6679470539093
     },
     {
-      "siteId": "32",
+      "siteId": "33",
       "areaName": "University of Bohol Car Park",
       "computedAreaM2": 1372.3330078125,
       "usablePvAreaM2": 677.33,
@@ -323,7 +333,7 @@
       "solarIrradianceAnnualKWhM2": 1736.3985682725906
     },
     {
-      "siteId": "33",
+      "siteId": "34",
       "areaName": "BISU - MC",
       "computedAreaM2": 282.658203125,
       "usablePvAreaM2": 76.88,
@@ -333,7 +343,7 @@
       "solarIrradianceAnnualKWhM2": 1741.1468224525452
     },
     {
-      "siteId": "34",
+      "siteId": "35",
       "areaName": "K of C",
       "computedAreaM2": 688.904296875,
       "usablePvAreaM2": 314.19,
@@ -343,7 +353,7 @@
       "solarIrradianceAnnualKWhM2": 1739.6857541799545
     },
     {
-      "siteId": "35",
+      "siteId": "36",
       "areaName": "Ramiro Hospital",
       "computedAreaM2": 1636.6533203125,
       "usablePvAreaM2": 723.34,
@@ -353,7 +363,7 @@
       "solarIrradianceAnnualKWhM2": 1744.0687848329544
     },
     {
-      "siteId": "36",
+      "siteId": "37",
       "areaName": "Galleria Luisa (front)",
       "computedAreaM2": 999.4345703125,
       "usablePvAreaM2": 472.29,
@@ -363,7 +373,7 @@
       "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
-      "siteId": "37",
+      "siteId": "38",
       "areaName": "Galleria Luisa",
       "computedAreaM2": 4479.32421875,
       "usablePvAreaM2": 1417.93,
@@ -373,7 +383,7 @@
       "solarIrradianceAnnualKWhM2": 1748.4518154859543
     },
     {
-      "siteId": "38",
+      "siteId": "39",
       "areaName": "Alva's Chicharon and Fried Chicken - J. Alaba Street Branch",
       "computedAreaM2": 228.8916015625,
       "usablePvAreaM2": 138.82,
@@ -383,7 +393,7 @@
       "solarIrradianceAnnualKWhM2": 1750.2779331207275
     },
     {
-      "siteId": "39",
+      "siteId": "40",
       "areaName": "St. Joseph the Worker Cathedral 1",
       "computedAreaM2": 1914.1181640625,
       "usablePvAreaM2": 756.22,
@@ -393,7 +403,7 @@
       "solarIrradianceAnnualKWhM2": 1751.7390013933182
     },
     {
-      "siteId": "40",
+      "siteId": "41",
       "areaName": "CPG East Ave. Parking",
       "computedAreaM2": 1503.5458984375,
       "usablePvAreaM2": 692.6,
@@ -403,7 +413,7 @@
       "solarIrradianceAnnualKWhM2": 1752.1042249202728
     },
     {
-      "siteId": "41",
+      "siteId": "42",
       "areaName": "St. Joseph the Worker Cathedral 2",
       "computedAreaM2": 906.8173828125,
       "usablePvAreaM2": 429.77,
@@ -413,7 +423,7 @@
       "solarIrradianceAnnualKWhM2": 1751.7390013933182
     },
     {
-      "siteId": "42",
+      "siteId": "43",
       "areaName": "ACE Medical Center",
       "computedAreaM2": 2213.046875,
       "usablePvAreaM2": 1075.99,
@@ -421,6 +431,16 @@
       "orientation": "South",
       "solarIrradianceDailyKWhM2": 4.809999942779541,
       "solarIrradianceAnnualKWhM2": 1756.8524791002274
+    },
+    {
+      "siteId": "44",
+      "areaName": "123",
+      "computedAreaM2": 540.8662109375,
+      "usablePvAreaM2": 403.21,
+      "shadingCondition": "Very Low",
+      "orientation": "South",
+      "solarIrradianceDailyKWhM2": 4.809000015258789,
+      "solarIrradianceAnnualKWhM2": 1756.4872555732727
     }
   ],
   "suitabilityAssessmentTable": [
@@ -767,6 +787,19 @@
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
+      "normalizedAreaScore": 0.28704052163526433,
+      "normalizedShadingScore": 1.0,
+      "normalizedOrientationScore": 1.0,
+      "normalizedGhiScore": 0.6256671265047798,
+      "suitabilityRating": 3.912707648140044,
+      "suitabilityClass": "Suitable",
+      "suitable": "YES"
+    },
+    {
+      "siteId": "28",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
       "normalizedAreaScore": 0.16900513508575293,
       "normalizedShadingScore": 1.0,
       "normalizedOrientationScore": 1.0,
@@ -776,7 +809,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "28",
+      "siteId": "29",
       "areaScore": 5.0,
       "shadingScore": 4.0,
       "orientationScore": 5.0,
@@ -789,7 +822,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "29",
+      "siteId": "30",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -802,7 +835,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "30",
+      "siteId": "31",
       "areaScore": 5.0,
       "shadingScore": 3.0,
       "orientationScore": 5.0,
@@ -815,7 +848,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "31",
+      "siteId": "32",
       "areaScore": 5.0,
       "shadingScore": 4.0,
       "orientationScore": 5.0,
@@ -828,7 +861,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "32",
+      "siteId": "33",
       "areaScore": 5.0,
       "shadingScore": 2.0,
       "orientationScore": 5.0,
@@ -841,7 +874,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "33",
+      "siteId": "34",
       "areaScore": 5.0,
       "shadingScore": 2.0,
       "orientationScore": 5.0,
@@ -854,7 +887,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "34",
+      "siteId": "35",
       "areaScore": 5.0,
       "shadingScore": 4.0,
       "orientationScore": 5.0,
@@ -867,7 +900,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "35",
+      "siteId": "36",
       "areaScore": 5.0,
       "shadingScore": 3.0,
       "orientationScore": 5.0,
@@ -880,7 +913,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "36",
+      "siteId": "37",
       "areaScore": 5.0,
       "shadingScore": 5.0,
       "orientationScore": 5.0,
@@ -893,7 +926,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "37",
+      "siteId": "38",
       "areaScore": 5.0,
       "shadingScore": 3.0,
       "orientationScore": 5.0,
@@ -906,7 +939,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "38",
+      "siteId": "39",
       "areaScore": 5.0,
       "shadingScore": 3.0,
       "orientationScore": 5.0,
@@ -919,7 +952,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "39",
+      "siteId": "40",
       "areaScore": 5.0,
       "shadingScore": 4.0,
       "orientationScore": 5.0,
@@ -932,7 +965,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "40",
+      "siteId": "41",
       "areaScore": 5.0,
       "shadingScore": 3.0,
       "orientationScore": 5.0,
@@ -945,7 +978,7 @@
       "suitable": "NO"
     },
     {
-      "siteId": "41",
+      "siteId": "42",
       "areaScore": 5.0,
       "shadingScore": 4.0,
       "orientationScore": 5.0,
@@ -958,7 +991,7 @@
       "suitable": "YES"
     },
     {
-      "siteId": "42",
+      "siteId": "43",
       "areaScore": 5.0,
       "shadingScore": 3.0,
       "orientationScore": 5.0,
@@ -967,6 +1000,19 @@
       "normalizedOrientationScore": 1.0,
       "normalizedGhiScore": 1.0,
       "suitabilityRating": 3.6057983108485843,
+      "suitabilityClass": "Suitable",
+      "suitable": "YES"
+    },
+    {
+      "siteId": "44",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "normalizedAreaScore": 0.08899269961520945,
+      "normalizedShadingScore": 1.0,
+      "normalizedOrientationScore": 1.0,
+      "normalizedGhiScore": 0.9946527882254244,
+      "suitabilityRating": 4.083645487840634,
       "suitabilityClass": "Suitable",
       "suitable": "YES"
     }
@@ -2285,8 +2331,44 @@
       "suitabilityClass": "Moderately Suitable"
     },
     {
-      "id": "1791091850250",
+      "id": "1793242592316",
       "parkingSpaceId": "27",
+      "areaName": "ghfkjk",
+      "description": "PV ANALYSIS SUMMARY\n\nUsable PV area:  m²\nAnnual GHI:  kWh/m²/year\nAssumed performance ratio: 80%\nCost basis: panels, inverters, mounting kits, and labor\n\nAE Solar 630 W:\nPanels: \nEstimated capacity:  kWp\nEstimated annual energy:  kWh/year\nEstimated PV equipment cost: PHP \nAnnual revenue:\n100% export: PHP \n80% export: PHP \n60% export: PHP \nIndicative payback period:\n100% export:  years\n80% export:  years\n60% export:  years\n\nNUUKO 620 W:\nPanels: \nEstimated capacity:  kWp\nEstimated annual energy:  kWh/year\nEstimated PV equipment cost: PHP \nAnnual revenue:\n100% export: PHP \n80% export: PHP \n60% export: PHP \nIndicative payback period:\n100% export:  years\n80% export:  years\n60% export:  years\n\nJA Solar 625 W:\nPanels: \nEstimated capacity:  kWp\nEstimated annual energy:  kWh/year\nEstimated PV equipment cost: PHP \nAnnual revenue:\n100% export: PHP \n80% export: PHP \n60% export: PHP \nIndicative payback period:\n100% export:  years\n80% export:  years\n60% export:  years\n\nAll PV values were calculated separately and entered manually. They are preliminary estimates, not measured operating results.",
+      "points": [
+        {
+          "lat": 9.650673851915592,
+          "lng": 123.84992044921582
+        },
+        {
+          "lat": 9.650214898677854,
+          "lng": 123.8500368345136
+        },
+        {
+          "lat": 9.65032081101898,
+          "lng": 123.85041284855252
+        }
+      ],
+      "computedAreaM2": 1129.4375,
+      "shadingCondition": "Very Low",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 3.912707648140044,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.739999771118164,
+      "solarIrradianceAnnualKWhM2": 1731.2849164009094,
+      "usablePvAreaM2": null,
+      "normalizedAreaScore": 0.28704052163526433,
+      "normalizedShadingScore": 1.0,
+      "normalizedOrientationScore": 1.0,
+      "normalizedGhiScore": 0.6256671265047798,
+      "suitabilityClass": "Suitable"
+    },
+    {
+      "id": "1791091850250",
+      "parkingSpaceId": "28",
       "areaName": "Tagbilaran Port 3",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 246\nEstimated capacity: 154.98 kWp\nEstimated annual energy: 214923.34 kWh/year\nEstimated PV equipment cost: PHP 368574\nAnnual revenue:\n100% export: PHP 1524956.32\n80% export: PHP 1219965.06\n60% export: PHP 914973.79\nIndicative payback period:\n100% export: 2.42 years\n80% export: 3.02 years\n60% export: 4.03 years\n\nNUUKO 620 W:\nPanels: 257\nEstimated capacity: 159.34 kWp\nEstimated annual energy: 220969.71 kWh/year\nEstimated PV equipment cost: PHP 372714\nAnnual revenue:\n100% export: PHP 1567857.43\n80% export: PHP 1254285.95\n60% export: PHP 940714.46\nIndicative payback period:\n100% export: 2.38 years\n80% export: 2.97 years\n60% export: 3.96 years\n\nJA Solar 625 W:\nPanels: 249\nEstimated capacity: 155.63 kWp\nEstimated annual energy: 215817.82 kWh/year\nEstimated PV equipment cost: PHP 362934\nAnnual revenue:\n100% export: PHP 1531302.97\n80% export: PHP 1225042.38\n60% export: PHP 918781.78\nIndicative payback period:\n100% export: 2.37 years\n80% export: 2.96 years\n60% export: 3.95 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2334,7 +2416,7 @@
     },
     {
       "id": "1791092133785",
-      "parkingSpaceId": "28",
+      "parkingSpaceId": "29",
       "areaName": "Tagbilaran Port 2",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 157\nEstimated capacity: 98.91 kWp\nEstimated annual energy: 137166.52 kWh/year\nEstimated PV equipment cost: PHP 223622\nAnnual revenue:\n100% export: PHP 973244.47\n80% export: PHP 778595.57\n60% export: PHP 583946.68\nIndicative payback period:\n100% export: 2.3 years\n80% export: 2.87 years\n60% export: 3.83 years\n\nNUUKO 620 W:\nPanels: 164\nEstimated capacity: 101.68 kWp\nEstimated annual energy: 141007.91 kWh/year\nEstimated PV equipment cost: PHP 226252\nAnnual revenue:\n100% export: PHP 1000500.47\n80% export: PHP 800400.38\n60% export: PHP 600300.28\nIndicative payback period:\n100% export: 2.26 years\n80% export: 2.83 years\n60% export: 3.77 years\n\nJA Solar 625 W:\nPanels: 158\nEstimated capacity: 98.75 kWp\nEstimated annual energy: 136944.64 kWh/year\nEstimated PV equipment cost: PHP 219492\nAnnual revenue:\n100% export: PHP 971670.15\n80% export: PHP 777336.12\n60% export: PHP 583002.09\nIndicative payback period:\n100% export: 2.26 years\n80% export: 2.82 years\n60% export: 3.76 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2374,7 +2456,7 @@
     },
     {
       "id": "1791092970360",
-      "parkingSpaceId": "29",
+      "parkingSpaceId": "30",
       "areaName": "Tagbilaran Port 1",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 759\nEstimated capacity: 478.17 kWp\nEstimated annual energy: 663117.14 kWh/year\nEstimated PV equipment cost: PHP 1070287\nAnnual revenue:\n100% export: PHP 4492187.7\n80% export: PHP 3593750.16\n60% export: PHP 2695312.62\nIndicative payback period:\n100% export: 2.38 years\n80% export: 2.98 years\n60% export: 3.97 years\n\nNUUKO 620 W:\nPanels: 794\nEstimated capacity: 492.28 kWp\nEstimated annual energy: 682684.62 kWh/year\nEstimated PV equipment cost: PHP 1095523\nAnnual revenue:\n100% export: PHP 4843886.32\n80% export: PHP 3875109.05\n60% export: PHP 2906331.79\nIndicative payback period:\n100% export: 2.26 years\n80% export: 2.83 years\n60% export: 3.77 years\n\nJA Solar 625 W:\nPanels: 767\nEstimated capacity: 479.38 kWp\nEstimated annual energy: 664788.21 kWh/year\nEstimated PV equipment cost: PHP 1052157\nAnnual revenue:\n100% export: PHP 4716905.03\n80% export: PHP 3773524.02\n60% export: PHP 2830143.02\nIndicative payback period:\n100% export: 2.23 years\n80% export: 2.79 years\n60% export: 3.72 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2422,7 +2504,7 @@
     },
     {
       "id": "1790100805344",
-      "parkingSpaceId": "30",
+      "parkingSpaceId": "31",
       "areaName": "Bohol Cultural Center Parking Lot",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 185\nEstimated capacity: 116.55 kWp\nEstimated annual energy: 162003.96 kWh/year\nEstimated PV equipment cost: PHP 258526\nAnnual revenue:\n100% export: PHP 1149474.8\n80% export: PHP 919579.84\n60% export: PHP 689684.88\nIndicative payback period:\n100% export: 2.25 years\n80% export: 2.81 years\n60% export: 3.75 years\n\nNUUKO 620 W:\nPanels: 193\nEstimated capacity: 119.66 kWp\nEstimated annual energy: 166326.85 kWh/year\nEstimated PV equipment cost: PHP 275615\nAnnual revenue:\n100% export: PHP 1180147.22\n80% export: PHP 944117.77\n60% export: PHP 708088.33\nIndicative payback period:\n100% export: 2.34 years\n80% export: 2.92 years\n60% export: 3.89 years\n\nJA Solar 625 W:\nPanels: 187\nEstimated capacity: 116.88 kWp\nEstimated annual energy: 162455.71 kWh/year\nEstimated PV equipment cost: PHP 254136\nAnnual revenue:\n100% export: PHP 1152680.12\n80% export: PHP 922144.1\n60% export: PHP 691608.07\nIndicative payback period:\n100% export: 2.2 years\n80% export: 2.76 years\n60% export: 3.67 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2498,7 +2580,7 @@
     },
     {
       "id": "1790100135420",
-      "parkingSpaceId": "31",
+      "parkingSpaceId": "32",
       "areaName": "Liteport (Vaper's Hub)",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 75\nEstimated capacity: 47.25 kWp\nEstimated annual energy: 65608.25 kWh/year\nEstimated PV equipment cost: PHP 109676\nAnnual revenue:\n100% export: PHP 465513.5\n80% export: PHP 372410.8\n60% export: PHP 279308.1\nIndicative payback period:\n100% export: 2.36 years\n80% export: 2.95 years\n60% export: 3.93 years\n\nNUUKO 620 W:\nPanels: 78\nEstimated capacity: 48.36 kWp\nEstimated annual energy: 67149.52 kWh/year\nEstimated PV equipment cost: PHP 110726\nAnnual revenue:\n100% export: PHP 476449.35\n80% export: PHP 381159.48\n60% export: PHP 285869.61\nIndicative payback period:\n100% export: 2.32 years\n80% export: 2.9 years\n60% export: 3.87 years\n\nJA Solar 625 W:\nPanels: 76\nEstimated capacity: 47.5 kWp\nEstimated annual energy: 65995.38 kWh/year\nEstimated PV equipment cost: PHP 108006\nAnnual revenue:\n100% export: PHP 468260.32\n80% export: PHP 374608.26\n60% export: PHP 280956.19\nIndicative payback period:\n100% export: 2.31 years\n80% export: 2.88 years\n60% export: 3.84 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2550,7 +2632,7 @@
     },
     {
       "id": "1789896435024",
-      "parkingSpaceId": "32",
+      "parkingSpaceId": "33",
       "areaName": "University of Bohol Car Park",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 239\nEstimated capacity: 150.57 kWp\nEstimated annual energy: 209159.63 kWh/year\nEstimated PV equipment cost: PHP 337568\nAnnual revenue:\n100% export: PHP 1484060.78\n80% export: PHP 1187248.62\n60% export: PHP 890436.47\nIndicative payback period:\n100% export: 2.27 years\n80% export: 2.84 years\n60% export: 3.79 years\n\nNUUKO 620 W:\nPanels: 250\nEstimated capacity: 155 kWp\nEstimated annual energy: 215313.42 kWh/year\nEstimated PV equipment cost: PHP 341778\nAnnual revenue:\n100% export: PHP 1527724.07\n80% export: PHP 1222179.26\n60% export: PHP 916634.44\nIndicative payback period:\n100% export: 2.24 years\n80% export: 2.8 years\n60% export: 3.73 years\n\nJA Solar 625 W:\nPanels: 242\nEstimated capacity: 151.25 kWp\nEstimated annual energy: 210104.23 kWh/year\nEstimated PV equipment cost: PHP 33213\nAnnual revenue:\n100% export: PHP 1490763.05\n80% export: PHP 1192610.44\n60% export: PHP 894457.83\nIndicative payback period:\n100% export: 2.23 years\n80% export: 2.78 years\n60% export: 3.71 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2674,7 +2756,7 @@
     },
     {
       "id": "1777605186897",
-      "parkingSpaceId": "33",
+      "parkingSpaceId": "34",
       "areaName": "BISU - MC",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 27\nEstimated capacity: 17.01 kWp\nEstimated annual energy: 23693.53 kWh/year\nEstimated PV equipment cost: PHP 48433\nAnnual revenue:\n100% export: PHP 168113.89\n80% export: PHP 134491.11\n60% export: PHP 100868.33\nIndicative payback period:\n100% export: 2.88 years\n80% export: 3.6 years\n60% export: 4.8 years\n\nNUUKO 620 W:\nPanels: 28\nEstimated capacity: 17.36 kWp\nEstimated annual energy: 24181.05 kWh/year\nEstimated PV equipment cost: PHP 48763\nAnnual revenue:\n100% export: PHP 171573.01\n80% export: PHP 137258.41\n60% export: PHP 102943.81\nIndicative payback period:\n100% export: 2.84 years\n80% export: 3.55 years\n60% export: 4.74 years\n\nJA Solar 625 W:\nPanels: 27\nEstimated capacity: 16.88 kWp\nEstimated annual energy: 23512.45 kWh/year\nEstimated PV equipment cost: PHP 47623\nAnnual revenue:\n100% export: PHP 166829.06\n80% export: PHP 133463.25\n60% export: PHP 100097.44\nIndicative payback period:\n100% export: 2.85 years\n80% export: 3.57 years\n60% export: 4.76 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2722,7 +2804,7 @@
     },
     {
       "id": "1791136546627",
-      "parkingSpaceId": "34",
+      "parkingSpaceId": "35",
       "areaName": "K of C",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 111\nEstimated capacity: 69.93 kWp\nEstimated annual energy: 97324.98 kWh/year\nEstimated PV equipment cost: PHP 163599\nAnnual revenue:\n100% export: PHP 690554.8\n80% export: PHP 552443.84\n60% export: PHP 414332.88\nIndicative payback period:\n100% export: 2.37 years\n80% export: 2.96 years\n60% export: 3.95 years\n\nNUUKO 620 W:\nPanels: 116\nEstimated capacity: 71.92 kWp\nEstimated annual energy: 100094.56 kWh/year\nEstimated PV equipment cost: PHP 165489\nAnnual revenue:\n100% export: PHP 710205.94\n80% export: PHP 568164.75\n60% export: PHP 426123.56\nIndicative payback period:\n100% export: 2.33 years\n80% export: 2.91 years\n60% export: 3.88 years\n\nJA Solar 625 W:\nPanels: 112\nEstimated capacity: 70 kWp\nEstimated annual energy: 97422.4 kWh/year\nEstimated PV equipment cost: PHP 160849\nAnnual revenue:\n100% export: PHP 691246.03\n80% export: PHP 552996.82\n60% export: PHP 414747.62\nIndicative payback period:\n100% export: 2.33 years\n80% export: 2.91 years\n60% export: 3.88 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2762,7 +2844,7 @@
     },
     {
       "id": "1789895702718",
-      "parkingSpaceId": "35",
+      "parkingSpaceId": "36",
       "areaName": "Ramiro Hospital",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 255\nEstimated capacity: 160.65 kWp\nEstimated annual energy: 224147.72 kWh/year\nEstimated PV equipment cost: PHP 374064\nAnnual revenue:\n100% export: PHP 1590406.52\n80% export: PHP 1272325.22\n60% export: PHP 954243.92\nIndicative payback period:\n100% export: 2.35 years\n80% export: 2.94 years\n60% export: 3.92 years\n\nNUUKO 620 W:\nPanels: 267\nEstimated capacity: 165.54 kWp\nEstimated annual energy: 230970.52 kWh/year\nEstimated PV equipment cost: PHP 378714\nAnnual revenue:\n100% export: PHP 1638816.68\n80% export: PHP 1311053.34\n60% export: PHP 983290.01\nIndicative payback period:\n100% export: 2.31 years\n80% export: 2.89 years\n60% export: 3.85 years\n\nJA Solar 625 W:\nPanels: 258\nEstimated capacity: 161.25 kWp\nEstimated annual energy: 224984.87 kWh/year\nEstimated PV equipment cost: PHP 368154\nAnnual revenue:\n100% export: PHP 1596346.4\n80% export: PHP 1277077.12\n60% export: PHP 957807.84\nIndicative payback period:\n100% export: 2.31 years\n80% export: 2.88 years\n60% export: 3.84 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2854,7 +2936,7 @@
     },
     {
       "id": "1791013659997",
-      "parkingSpaceId": "36",
+      "parkingSpaceId": "37",
       "areaName": "Galleria Luisa (front)",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 167\nEstimated capacity: 105.21 kWp\nEstimated annual energy: 147163.69 kWh/year\nEstimated PV equipment cost: PHP 247546\nAnnual revenue:\n100% export: PHP 1044177.89\n80% export: PHP 835342.31\n60% export: PHP 626506.73\nIndicative payback period:\n100% export: 2.37 years\n80% export: 2.96 years\n60% export: 3.95 years\n\nNUUKO 620 W:\nPanels: 174\nEstimated capacity: 107.88 kWp\nEstimated annual energy: 150898.39 kWh/year\nEstimated PV equipment cost: PHP 250076\nAnnual revenue:\n100% export: PHP 1070676.89\n80% export: PHP 856541.51\n60% export: PHP 642406.14\nIndicative payback period:\n100% export: 2.34 years\n80% export: 2.92 years\n60% export: 3.89 years\n\nJA Solar 625 W:\nPanels: 168\nEstimated capacity: 105 kWp\nEstimated annual energy: 146869.95 kWh/year\nEstimated PV equipment cost: PHP 243116\nAnnual revenue:\n100% export: PHP 1042093.7\n80% export: PHP 833674.96\n60% export: PHP 625256.22\nIndicative payback period:\n100% export: 2.33 years\n80% export: 2.92 years\n60% export: 3.89 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -2906,7 +2988,7 @@
     },
     {
       "id": "1789890605650",
-      "parkingSpaceId": "37",
+      "parkingSpaceId": "38",
       "areaName": "Galleria Luisa",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 501\nEstimated capacity: 315.53 kWp\nEstimated annual energy: 441351.2 kWh/year\nEstimated PV equipment cost: PHP 706219\nAnnual revenue:\n100% export: PHP 3131541.24\n80% export: PHP 2505232.99\n60% export: PHP 1878924.74\nIndicative payback period:\n100% export: 2.26 years\n80% export: 2.82 years\n60% export: 3.76 years\n\nNUUKO 620 W:\nPanels: 524\nEstimated capacity: 324.88 kWp\nEstimated annual energy: 454429.62 kWh/year\nEstimated PV equipment cost: PHP 729919\nAnnual revenue:\n100% export: PHP 3224337.2\n80% export: PHP 2579469.76\n60% export: PHP 1934602.32\nIndicative payback period:\n100% export: 2.26 years\n80% export: 2.83 years\n60% export: 3.77 years\n\nJA Solar 625 W:\nPanels: 507\nEstimated capacity: 316.88 kWp\nEstimated annual energy: 443232.54 kWh/year\nEstimated PV equipment cost: PHP 695219\nAnnual revenue:\n100% export: PHP 3144890\n80% export: PHP 2515912\n60% export: PHP 1886934\nIndicative payback period:\n100% export: 2.21 years\n80% export: 2.76 years\n60% export: 3.68 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -3006,7 +3088,7 @@
     },
     {
       "id": "1791087469652",
-      "parkingSpaceId": "38",
+      "parkingSpaceId": "39",
       "areaName": "Alva's Chicharon and Fried Chicken - J. Alaba Street Branch",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 49\nEstimated capacity: 30.87 kWp\nEstimated annual energy: 43224.86 kWh/year\nEstimated PV equipment cost: PHP 7754\nAnnual revenue:\n100% export: PHP 306695.51\n80% export: PHP 245356.41\n60% export: PHP 184017.31\nIndicative payback period:\n100% export: 2.53 years\n80% export: 3.16 years\n60% export: 4.21 years\n\nNUUKO 620 W:\nPanels: 51\nEstimated capacity: 31.62 kWp\nEstimated annual energy: 44275.03 kWh/year\nEstimated PV equipment cost: PHP 7825\nAnnual revenue:\n100% export: PHP 314146.83\n80% export: PHP 251317.47\n60% export: PHP 188488.1\nIndicative payback period:\n100% export: 2.49 years\n80% export: 3.11 years\n60% export: 4.15 years\n\nJA Solar 625 W:\nPanels: 50\nEstimated capacity: 31.25 kWp\nEstimated annual energy: 43756.95 kWh/year\nEstimated PV equipment cost: PHP 7665\nAnnual revenue:\n100% export: PHP 310470.88\n80% export: PHP 248376.7\n60% export: PHP 186282.53\nIndicative payback period:\n100% export: 2.47 years\n80% export: 3.09 years\n60% export: 4.11 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -3050,7 +3132,7 @@
     },
     {
       "id": "1791042148443",
-      "parkingSpaceId": "39",
+      "parkingSpaceId": "40",
       "areaName": "St. Joseph the Worker Cathedral 1",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 267\nEstimated capacity: 168.21 kWp\nEstimated annual energy: 235728.01 kWh/year\nEstimated PV equipment cost: PHP 381384\nAnnual revenue:\n100% export: PHP 1672572.74\n80% export: PHP 1338058.19\n60% export: PHP 1003543.64\nIndicative payback period:\n100% export: 2.28 years\n80% export: 2.85 years\n60% export: 3.8 years\n\nNUUKO 620 W:\nPanels: 279\nEstimated capacity: 172.98 kWp\nEstimated annual energy: 242412.65 kWh/year\nEstimated PV equipment cost: PHP 385914\nAnnual revenue:\n100% export: PHP 1720002.6\n80% export: PHP 1376002.08\n60% export: PHP 1032001.56\nIndicative payback period:\n100% export: 2.24 years\n80% export: 2.8 years\n60% export: 3.74 years\n\nJA Solar 625 W:\nPanels: 270\nEstimated capacity: 168.75 kWp\nEstimated annual energy: 236484.77 kWh/year\nEstimated PV equipment cost: PHP 375114\nAnnual revenue:\n100% export: PHP 1677942.21\n80% export: PHP 1342353.77\n60% export: PHP 1006765.33\nIndicative payback period:\n100% export: 2.24 years\n80% export: 2.79 years\n60% export: 3.73 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -3138,7 +3220,7 @@
     },
     {
       "id": "1789888781304",
-      "parkingSpaceId": "40",
+      "parkingSpaceId": "41",
       "areaName": "CPG East Ave. Parking",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 245\nEstimated capacity: 154.35 kWp\nEstimated annual energy: 216349.83 kWh/year\nEstimated PV equipment cost: PHP 341228\nAnnual revenue:\n100% export: PHP 1535077.77\n80% export: PHP 1228062.21\n60% export: PHP 921046.66\nIndicative payback period:\n100% export: 2.22 years\n80% export: 2.78 years\n60% export: 3.7 years\n\nNUUKO 620 W:\nPanels: 256\nEstimated capacity: 158.72 kWp\nEstimated annual energy: 222475.19 kWh/year\nEstimated PV equipment cost: PHP 335695\nAnnual revenue:\n100% export: PHP 1578539.34\n80% export: PHP 1262831.47\n60% export: PHP 947123.6\nIndicative payback period:\n100% export: 2.13 years\n80% export: 2.66 years\n60% export: 3.54 years\n\nJA Solar 625 W:\nPanels: 247\nEstimated capacity: 154.38 kWp\nEstimated annual energy: 216391.88 kWh/year\nEstimated PV equipment cost: PHP 335038\nAnnual revenue:\n100% export: PHP 1535376.13\n80% export: PHP 1228300.9\n60% export: PHP 921225.68\nIndicative payback period:\n100% export: 2.18 years\n80% export: 2.73 years\n60% export: 3.64 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -3218,7 +3300,7 @@
     },
     {
       "id": "1791014832832",
-      "parkingSpaceId": "41",
+      "parkingSpaceId": "42",
       "areaName": "St. Joseph the Worker Cathedral 2",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 152\nEstimated capacity: 95.76 kWp\nEstimated annual energy: 134197.22 kWh/year\nEstimated PV equipment cost: PHP 1750176\nAnnual revenue:\n100% export: PHP 952176.25\n80% export: PHP 761741\n60% export: PHP 571305.75\nIndicative payback period:\n100% export: 1.84 years\n80% export: 2.3 years\n60% export: 3.06 years\n\nNUUKO 620 W:\nPanels: 159\nEstimated capacity: 98.58 kWp\nEstimated annual energy: 138149.14 kWh/year\nEstimated PV equipment cost: PHP 223252\nAnnual revenue:\n100% export: PHP 980216.5\n80% export: PHP 784173.2\n60% export: PHP 588129.9\nIndicative payback period:\n100% export: 2.28 years\n80% export: 2.85 years\n60% export: 3.8 years\n\nJA Solar 625 W:\nPanels: 153\nEstimated capacity: 95.63 kWp\nEstimated annual energy: 134008.03 kWh/year\nEstimated PV equipment cost: PHP 216592\nAnnual revenue:\n100% export: PHP 950833.88\n80% export: PHP 760667.1\n60% export: PHP 570500.33\nIndicative payback period:\n100% export: 2.28 years\n80% export: 2.85 years\n60% export: 3.8 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -3258,7 +3340,7 @@
     },
     {
       "id": "1791207262604",
-      "parkingSpaceId": "42",
+      "parkingSpaceId": "43",
       "areaName": "ACE Medical Center",
       "description": "PV ANALYSIS SUMMARY\n\nAE Solar 630 W:\nPanels: 380\nEstimated capacity: 239.4 kWp\nEstimated annual energy: 336472.39 kWh/year\nEstimated PV equipment cost: PHP 55143\nAnnual revenue:\n100% export: PHP 2387389.37\n80% export: PHP 1909911.5\n60% export: PHP 1432433.62\nIndicative payback period:\n100% export: 2.31 years\n80% export: 2.89 years\n60% export: 3.85 years\n\nNUUKO 620 W:\nPanels: 398\nEstimated capacity: 246.78 kWp\nEstimated annual energy: 346844.84 kWh/year\nEstimated PV equipment cost: PHP 55843\nAnnual revenue:\n100% export: PHP 2460985.54\n80% export: PHP 1968788.43\n60% export: PHP 1476591.32\nIndicative payback period:\n100% export: 2.27 years\n80% export: 2.84 years\n60% export: 3.78 years\n\nJA Solar 625 W:\nPanels: 384\nEstimated capacity: 240 kWp\nEstimated annual energy: 337315.68 kWh/year\nEstimated PV equipment cost: PHP 54235\nAnnual revenue:\n100% export: PHP 2393372.81\n80% export: PHP 1914698.25\n60% export: PHP 1436023.69\nIndicative payback period:\n100% export: 2.27 years\n80% export: 2.83 years\n60% export: 3.78 years\n\nAssumed performance ratio: 80%.\nAll PV values were calculated separately and imported from the research workbook. They are preliminary estimates, not measured operating results.",
       "points": [
@@ -3386,6 +3468,46 @@
       "normalizedShadingScore": 0.3333333333333333,
       "normalizedOrientationScore": 1.0,
       "normalizedGhiScore": 1.0,
+      "suitabilityClass": "Suitable"
+    },
+    {
+      "id": "1793245706041",
+      "parkingSpaceId": "44",
+      "areaName": "123",
+      "description": "PV ANALYSIS SUMMARY\n\nUsable PV area:  m²\nAnnual GHI:  kWh/m²/year\nAssumed performance ratio: 80%\nCost basis: panels, inverters, mounting kits, and labor\n\nAE Solar 630 W:\nPanels: \nEstimated capacity:  kWp\nEstimated annual energy:  kWh/year\nEstimated PV equipment cost: PHP \nAnnual revenue:\n100% export: PHP \n80% export: PHP \n60% export: PHP \nIndicative payback period:\n100% export:  years\n80% export:  years\n60% export:  years\n\nNUUKO 620 W:\nPanels: \nEstimated capacity:  kWp\nEstimated annual energy:  kWh/year\nEstimated PV equipment cost: PHP \nAnnual revenue:\n100% export: PHP \n80% export: PHP \n60% export: PHP \nIndicative payback period:\n100% export:  years\n80% export:  years\n60% export:  years\n\nJA Solar 625 W:\nPanels: \nEstimated capacity:  kWp\nEstimated annual energy:  kWh/year\nEstimated PV equipment cost: PHP \nAnnual revenue:\n100% export: PHP \n80% export: PHP \n60% export: PHP \nIndicative payback period:\n100% export:  years\n80% export:  years\n60% export:  years\n\nAll PV values were calculated separately and entered manually. They are preliminary estimates, not measured operating results.",
+      "points": [
+        {
+          "lat": 9.632291399758738,
+          "lng": 123.87056788058511
+        },
+        {
+          "lat": 9.632104243007047,
+          "lng": 123.87038208659891
+        },
+        {
+          "lat": 9.63197482604363,
+          "lng": 123.8705052760898
+        },
+        {
+          "lat": 9.632140081542005,
+          "lng": 123.87066885557769
+        }
+      ],
+      "computedAreaM2": 540.8662109375,
+      "shadingCondition": "Very Low",
+      "orientation": "South",
+      "areaScore": 5.0,
+      "shadingScore": 5.0,
+      "orientationScore": 5.0,
+      "suitabilityRating": 4.083645487840634,
+      "suitable": true,
+      "solarIrradianceDailyKWhM2": 4.809000015258789,
+      "solarIrradianceAnnualKWhM2": 1756.4872555732727,
+      "usablePvAreaM2": 403.21,
+      "normalizedAreaScore": 0.08899269961520945,
+      "normalizedShadingScore": 1.0,
+      "normalizedOrientationScore": 1.0,
+      "normalizedGhiScore": 0.9946527882254244,
       "suitabilityClass": "Suitable"
     }
   ]
